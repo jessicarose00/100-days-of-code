@@ -96,3 +96,15 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Work & Resources**:   
 [.gitignore documentation](https://git-scm.com/docs/gitignore)
+
+### Day 8: October 13th, 2019
+
+**Focus**: Today's focus was branches and learning to --decorate my project with tags (even though the log command in Git version 2.13 is automatically decorated)
+
+**Progress**: Added and deleted tags, added tags to past commits, delved into branching
+
+**Thoughts**: With all of this new terminology and commands in my git toolbox, I need to find a project where I can apply this knowledge.
+
+**Work & Resources**:  
+[git tag documentation](https://git-scm.com/docs/git-tag)  
+[Happy Git and GitHub for the useR - branches](https://happygitwithr.com/git-branches.html)
