@@ -109,7 +109,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [git tag documentation](https://git-scm.com/docs/git-tag)  
 [Happy Git and GitHub for the useR - branches](https://happygitwithr.com/git-branches.html)
 
-### Day 9: October 13th, 2019
+### Day 9: October 14th, 2019
 
 **Focus**: I've been struggling through a data analysis case study as part of my [Udacity Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and decided to take a break from Git to practice creating and manipulating tables with Pandas. I worked through the lessons and quizzes in Codecademy's data science track.
 
@@ -119,3 +119,14 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Work & Resources**:  
 [Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
+
+### Day 10: October 15th, 2019
+
+**Focus**: Focusing on lambda functions and Pandas again today.
+
+**Progress**: Completed the petal power inventory project
+
+**Thoughts**: The Codecademy projects and lessons sometimes do a little too much hand holding, but whatever I'll take it. 
+
+**Work & Resources**:  
+[Power Petal Inventory](PPInventory.py)
