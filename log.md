@@ -103,8 +103,19 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Progress**: Added and deleted tags, added tags to past commits, delved into branching
 
-**Thoughts**: With all of this new terminology and commands in my git toolbox, I need to find a project where I can apply this knowledge.
+**Thoughts**: With all of this new terminology and commands in my git toolbox, I need to find a project where I can begin to apply this knowledge.
 
 **Work & Resources**:  
 [git tag documentation](https://git-scm.com/docs/git-tag)  
 [Happy Git and GitHub for the useR - branches](https://happygitwithr.com/git-branches.html)
+
+### Day 9: October 13th, 2019
+
+**Focus**: I've been struggling through a data analysis case study as part of my [Udacity Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and decided to take a break from Git to practice creating and manipulating tables with Pandas. I worked through the lessons and quizzes in Codecademy's data science track.
+
+**Progress**: Practiced renaming columns, adding columns to a DataFrame, and using lambda functions to calculate complex quantities
+
+**Thoughts**: With the abundance of online educational resources, my study habits often involve alternating between a few different platforms to learn a new topic. Exploring different teaching methods and exercises helps ingrain the concepts in my head. Plus sometimes a certain explanation just clicks. Anyway, I think I'll dedicate a few more days to Pandas since this will be a crucial tool for data analysis (and I need practice).
+
+**Work & Resources**:  
+[Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
