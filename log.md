@@ -51,7 +51,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 
-### Day 4: October 10th, 2019
+### Day 4: October 9th, 2019
 
 **Focus**: Shortcuts with git show.
 
@@ -62,7 +62,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-### Day 5: October 9th, 2019
+### Day 5: October 10th, 2019
 
 **Focus**: Commit, commit, commit.
 
