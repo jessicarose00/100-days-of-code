@@ -130,3 +130,14 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Work & Resources**:  
 [Power Petal Inventory](PPInventory.py)
+
+### Day 11: October 16th, 2019
+
+**Focus**: I'm pleased to announce that today was a much smoother day with pandas! Really enforces the power of practice. I was focused on aggregates and learned how to reorganize a data frame with pivoting.
+
+**Progress**: Practiced performing aggregate statistics over rows with groupby, rearranged data frames into pivot tables
+
+**Thoughts**: Codecademy's lessons were a bit buggy so I felt like I lost a lot of time/energy trying to work through the lessons. When I finally gave up I decided to enjoy [this](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html) useful pandas/SQL comparison guide. I'll post a link to the project I worked on tomorrow if the workspace is able to get over itself.
+
+**Work & Resources**:  
+[Pandas Comparison with SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)
