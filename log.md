@@ -152,3 +152,14 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Work & Resources**:  
 [Tutorial: Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
+
+### Day 13: October 17th, 2019
+
+**Focus**: Merging branches, the beauty and power behind Git.
+
+**Progress**: Learned about the merge command to combine Git branches. Practiced with regular and fast forward merges in my test project.
+
+**Thoughts**: The word of the day is MERGE. I was learning about merging with Git in my hour of code and learning about merging with Pandas in my Udacity Nanodegree. Git merge combines multiple sequences of commits into one unified history
+
+**Work & Resources**:  
+[Tutorial: Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
