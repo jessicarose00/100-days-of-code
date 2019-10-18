@@ -141,3 +141,14 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Work & Resources**:  
 [Pandas Comparison with SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)
+
+### Day 12: October 17th, 2019
+
+**Focus**: Back to Git. There's still much fine tuning needed on the data analysis front, but I'm already working with pandas in my courses and am afraid I might start to forget the new Git concepts if I'm not using them regularly (there's a lot of new information entering my brain these days). Today's focus was on branching effectively.
+
+**Progress**: Practiced creating, listing and deleting branches, adding content to them and switching back and forth between branches
+
+**Thoughts**: I'm going to try and complete this hour of code earlier in the day moving forward. In other news, I downlowded Tableau Desktop and spent a good chunk of today exploring. They have a nice tutorial project that walks you through all the features. I am infatuated.
+
+**Work & Resources**:  
+[Tutorial: Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
