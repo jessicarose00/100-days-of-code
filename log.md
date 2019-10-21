@@ -4,12 +4,15 @@
 
 **Focus**: What better way to kick off my commitment to 100 days of code than attend a one day coding bootcamp? Today I attended "One Day at Bootcamp" hosted by Metis in New York City. The workshop featured lessons on Python, with a focus on Pandas and SciKit Learn. 
 
-**Progress**: Learned about the difference between supervised and unsupervised machine learning, practiced data analysis with pandas, had a nice intro to linear regression with an example of how to build regression models in scikit-learn
+**Progress**: 
+- Learned about the difference between supervised and unsupervised machine learning
+- Practiced data analysis with pandas
+- Had a nice intro to linear regression with an example of how to build regression models in scikit-learn
 
 **Thoughts**: While the workshop touched on a broader range of topics than would typically be covered in one day at an immersive bootcamp, it was helpful to get a feel for the pace and structure of the program. It was also a welcome break from self-study, where I'm constantly throwing questions at google/stackoverflow. Being able to pose more complex questions to Metis's Senior Data Scientists and get immediate answers was... heavenly.
 
 **Work & Resources**:  
-coming soon
+[Intro to Pandas Exercise](1_intro_to_pandas.ipynb)
 
 ### Day 1: October 6th, 2019
 
@@ -17,7 +20,11 @@ coming soon
 
 After seeking external advice I decided to prioritize building some Git skills using the command line. After all, who cares what you can create if you cannot collaborate and communicate with others? Let’s git init! (let the lame puns begin!)
 
-**Progress**: Installed Git, configured my terminal and code editor, practiced creating and navigating around directories in the terminal, created my first repository from scratch
+**Progress**: 
+- Installed Git
+- onfigured my terminal and code editor
+- Practiced creating and navigating around directories in the terminal
+- Created my first repository from scratch
 
 **Thoughts**: This feels harder than expected.
 
@@ -29,7 +36,10 @@ After seeking external advice I decided to prioritize building some Git skills u
 
 **Focus**: Learn two of the most important Git commands:  git status and git log. 
 
-**Progress**: Cloned an existing repo and changed its name, learned about git status command and its output, learned how to navigate and understand git log
+**Progress**: 
+- Cloned an existing repo and changed its name
+- Learned about git status command and its output
+- Learned how to navigate and understand git log
 
 **Thoughts**: While I definitely feel I’m making progress and recognize the importance of this new knowledge, using the terminal still feels like working in a black, inaccessible box (thanks Udacity for the metaphor). I’m looking forward to overcoming that feeling.  
 
@@ -43,7 +53,9 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: More focus on the git log command today, including a detailed exploration of each nugget of information the git log command displays.
 
-**Progress**: Learned about the importance of flags to alter how information is displayed, practiced using --oneline, --stat, -p and -w
+**Progress**: 
+- Learned about the importance of flags to alter how information is displayed
+- Practiced using --oneline, --stat, -p and -w
 
 **Thoughts**: Udacity's course on Version control with Git does a great job of instructing how to navigate git log in the command line. I've use a wide number of resources and really enjoy how this course is designed. Now that I can wrap my head around git log, I can see how valuable this information will be as I move forward in my coding journey.
 
@@ -55,7 +67,9 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Shortcuts with git show.
 
-**Progress**: Figured out how to access and display specific commits with git log and git show, practiced using them with SHAs
+**Progress**: 
+- Figured out how to access and display specific commits with git log and git show
+- Practiced using them with SHAs
 
 **Thoughts**: Awesome, I was hoping this existed.
 
@@ -66,7 +80,9 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Commit, commit, commit.
 
-**Progress**: Finally wrote my first commit, learned about git add and tips for how to write a good commit message.
+**Progress**: 
+- Finally wrote my first commit!
+- Learned about git add and gathered some tips for how to write a good commit message.
 
 **Thoughts**: To write a good commit message, its helps to imagine I'm finishing this sentence: "This commit will..." and explain *what* the commit does, not *how* or *why*.  It feels a bit pathetic that I’m only at this stage - no pun intended (I warned you) - but I do feel like mastering the terminology and having the confidence to navigate git log and git status wwere important steps. And hey, leaves a whole lot of room for accomplishment over the next 95 days.
 
@@ -78,7 +94,9 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Get some practice with markdown by cleaning up my activity log.
 
-**Progress**: Played with the style and format of my activity log, readme and resources files, played around with markdown
+**Progress**: 
+- Played with the style and format of my activity log, readme and resources files
+- Experimented with markdown syntax
 
 **Thoughts**: I'm about to hit the one week mark in this challenge, so cleaning up my activity log was a priority. I haven't been tweeting daily about my progres (opps) which is a main element of this challenge. Now that I feel more comfortable working with markdown and using the command line to push my changes to github there's no excuse!
 
@@ -90,7 +108,9 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Learn the command that allows me to not have to 1) add my files one by one or 2) add all the files in a directory. You guessed it... .gitignore!
 
-**Progress**: Used git diff to see changes that have been made to a file but not committed, practiced with .gitignore and globbing
+**Progress**: 
+- Used git diff to see changes that have been made to a file but not committed
+- Practiced with .gitignore and globbing
 
 **Thoughts**: Is it just me or do you wish the [origin](https://en.wikipedia.org/wiki/Glob_(programming)) of the glob command was a bit more fascinating than a shortened version of "global"? 
 
@@ -101,7 +121,10 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Today's focus was branches and learning to --decorate my project with tags (even though the log command in Git version 2.13 is automatically decorated)
 
-**Progress**: Added and deleted tags, added tags to past commits, delved into branching
+**Progress**: 
+- Added and deleted tags
+- Added tags to past commits
+- Started delving into the topic of branching
 
 **Thoughts**: With all of this new terminology and commands in my git toolbox, I need to find a project where I can begin to apply this knowledge.
 
@@ -113,7 +136,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: I've been struggling through a data analysis case study as part of my [Udacity Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and decided to take a break from Git to practice creating and manipulating tables with Pandas. I worked through the lessons and quizzes in Codecademy's data science track.
 
-**Progress**: Practiced renaming columns, adding columns to a DataFrame, and using lambda functions to calculate complex quantities
+**Progress**: 
+- Practiced renaming columns, adding columns to a DataFrame, and using lambda functions to calculate complex quantities
 
 **Thoughts**: With the abundance of online educational resources, my study habits often involve alternating between a few different platforms to learn a new topic. Exploring different teaching methods and exercises helps ingrain the concepts in my head. Plus sometimes a certain explanation just clicks. Anyway, I think I'll dedicate a few more days to Pandas since this will be a crucial tool for data analysis (and I need practice).
 
@@ -124,7 +148,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Focusing on lambda functions and Pandas again today.
 
-**Progress**: Completed the petal power inventory project
+**Progress**: 
+- Completed the petal power inventory project
 
 **Thoughts**: The Codecademy projects and lessons sometimes do a little too much hand holding, but whatever I'll take it. 
 
@@ -135,7 +160,9 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: I'm pleased to announce that today was a much smoother day with pandas! Really enforces the power of practice. I was focused on aggregates and learned how to reorganize a data frame with pivoting.
 
-**Progress**: Practiced performing aggregate statistics over rows with groupby, rearranged data frames into pivot tables
+**Progress**: 
+- Performed aggregate statistics over rows with groupby 
+- Rearranged data frames into pivot tables
 
 **Thoughts**: Codecademy's lessons were a bit buggy so I felt like I lost a lot of time/energy trying to work through the lessons. When I finally gave up I decided to enjoy [this](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html) useful pandas/SQL comparison guide. I'll post a link to the project I worked on tomorrow if the workspace is able to get over itself.
 
@@ -146,7 +173,10 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Focus**: Back to Git. There's still much fine tuning needed on the data analysis front, but I'm already working with pandas in my courses and am afraid I might start to forget the new Git concepts if I'm not using them regularly (there's a lot of new information entering my brain these days). Today's focus was on branching effectively.
 
-**Progress**: Practiced creating, listing and deleting branches, adding content to them and switching back and forth between branches
+**Progress**:
+- Learned how to create, list and delete branches
+- Added content to branches
+- Practiced switching back and forth between branches
 
 **Thoughts**: I'm going to try and complete this hour of code earlier in the day moving forward. In other news, I downlowded Tableau Desktop and spent a good chunk of today exploring. They have a nice tutorial project that walks you through all the features. I am infatuated.
 
@@ -155,11 +185,27 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 ### Day 13: October 18th, 2019
 
-**Focus**: Merging branches, the beauty and power behind Git. It's useful to have a better grasp on how Git merge combines multiple sequences of commits into one unified history
+**Focus**: Merging branches, the beauty and power behind Git. It helps to have a better grasp on how Git merge combines multiple sequences of commits into one unified history.
 
-**Progress**: Learned about the merge command to combine Git branches. Practiced with regular and fast forward merges in my test project.
+**Progress**: 
+- Learned about the merge command to combine Git branches
+- Practiced with regular and fast forward merges in my test project
 
 **Thoughts**: Well, it looks like the word of the day is *merge*. I covered merging branches with Git in my hour of code and merging dataframes with Pandas in my Udacity Nanodegree courses. This is definitely sparking some small brain explosions as I try to keep track of all the definitions, rules and applications, despite the fact that they are completely separate topics. However, I have uncovered about 6,000 different Git cheatsheets (can I get a *merge* please??).
 
 **Work & Resources**:  
 [Git Merge Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+![merge picture](/Users/jessicaertel/Desktop/Praktice/Git_merge.png)
+
+### Day 14: October 20th, 2019
+
+**Focus**: As I progress in my understanding of Git, I'm recognizing the importance of clear, well documented code. I took some time today to explore the common structure and best practices for readme files. I also picked up some more basic markdown syntax.
+
+**Progress**: 
+- Learned tips for writing readme files
+- [Mastered Markdown](https://guides.github.com/features/mastering-markdown/) by adding an image of my merge to yesterday's entry
+
+**Thoughts**: There's even an [emoji cheat sheet] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). I admit I never knew the shaka :call_me_hand: was formally known as the "call me sign".
+
+**Work & Resources**:  
+[Writing READMEs by Udacity](https://www.udacity.com/course/writing-readmes--ud777)
