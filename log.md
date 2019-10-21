@@ -194,8 +194,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Thoughts**: Well, it looks like the word of the day is *merge*. I covered merging branches with Git in my hour of code and merging dataframes with Pandas in my Udacity Nanodegree courses. This is definitely sparking some small brain explosions as I try to keep track of all the definitions, rules and applications, despite the fact that they are completely separate topics. However, I have uncovered about 6,000 different Git cheatsheets (can I get a *merge* please??).
 
 **Work & Resources**:  
-[Git Merge Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
-![merge picture](/Users/jessicaertel/Desktop/Praktice/Git_merge.png)
+[Git Merge Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge)  
+![](/Users/jessicaertel/Desktop/Praktice/Git_merge.png)
 
 ### Day 14: October 20th, 2019
 
@@ -205,7 +205,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 - Learned tips for writing readme files
 - [Mastered Markdown](https://guides.github.com/features/mastering-markdown/) by adding an image of my merge to yesterday's entry
 
-**Thoughts**: There's even an [emoji cheat sheet] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). I admit I never knew the shaka :call_me_hand: was formally known as the "call me sign".
+**Thoughts**: There's even an [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). I admit I never knew the shaka :call_me_hand: was formally known as the "call me sign".
 
 **Work & Resources**:  
 [Writing READMEs by Udacity](https://www.udacity.com/course/writing-readmes--ud777)
