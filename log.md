@@ -191,11 +191,11 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 - Learned about the merge command to combine Git branches
 - Practiced with regular and fast forward merges in my test project
 
-**Thoughts**: Well, it looks like the word of the day is *merge*. I covered merging branches with Git in my hour of code and merging dataframes with Pandas in my Udacity Nanodegree courses. This is definitely sparking some small brain explosions as I try to keep track of all the definitions, rules and applications, despite the fact that they are completely separate topics. However, I have uncovered about 6,000 different Git cheatsheets (can I get a *merge* please??).
+**Thoughts**: Well, it looks like the word of the day is *merge*. I covered merging branches with Git in my hour of code and merging dataframes with Pandas in my Udacity Nanodegree courses. This is definitely sparking some small brain explosions as I try to keep track of all the definitions, rules and applications, despite the fact that they are completely separate topics. Luckily, I have uncovered about 6,000 different Git cheatsheets (can I get a *merge* please??).
 
 **Work & Resources**:  
 [Git Merge Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge)  
-![](/Users/jessicaertel/Desktop/Praktice/Git_merge.png)
+![Mergin](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Git_merge.png)
 
 ### Day 14: October 20th, 2019
 
@@ -205,7 +205,18 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 - Learned tips for writing readme files
 - [Mastered Markdown](https://guides.github.com/features/mastering-markdown/) by adding an image of my merge to yesterday's entry
 
-**Thoughts**: There's even an [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). I admit I never knew the shaka :call_me_hand: was formally known as the "call me sign".
+**Thoughts**: There's even an [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). I admit I never knew the shaka :call_me_hand: was formally known as the "call me hand".
 
 **Work & Resources**:  
 [Writing READMEs by Udacity](https://www.udacity.com/course/writing-readmes--ud777)
+
+### Day 15: October 21st, 2019
+
+**Focus**: Completed Codecademy lessons on working with multiple tables in Pandas. Fixed some issues that came up during yesterday's Markdown extravaganza
+
+**Progress**: 
+- Practiced methods for combining multiple dataframes (i.e. all the different merges and concatenate)
+
+**Thoughts**: For anyone who reads this log 1) sorry 2) thanks! and 3) It may seem like I'm jumping around in my focus, but sometimes I need to dedicate the hour to improving my coding skills for the projects and lessons I can currently apply them to, rather than continually taking on new topics. One of my goals is to be in a position where I can contribute to open source, so learning Git is an important step in that direction, but I accept it's going to be more of a long-term objective. This week I have three concurrent data analysis assignments so Pandas is taking priority.
+
+**Work & Resources**:  
