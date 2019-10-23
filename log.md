@@ -12,7 +12,7 @@
 **Thoughts**: While the workshop touched on a broader range of topics than would typically be covered in one day at an immersive bootcamp, it was helpful to get a feel for the pace and structure of the program. It was also a welcome break from self-study, where I'm constantly throwing questions at google/stackoverflow. Being able to pose more complex questions to Metis's Senior Data Scientists and get immediate answers was... heavenly.
 
 **Work & Resources**:  
-[Intro to Pandas Exercise](1_intro_to_pandas.ipynb)
+[Intro to Pandas Exercise](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/1_intro_to_pandas.ipynb)
 
 ### Day 1: October 6th, 2019
 
@@ -154,7 +154,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Thoughts**: The Codecademy projects and lessons sometimes do a little too much hand holding, but whatever I'll take it. 
 
 **Work & Resources**:  
-[Power Petal Inventory](PPInventory.py)
+[Power Petal Inventory](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/PPInventory.py)
 
 ### Day 11: October 16th, 2019
 
@@ -195,6 +195,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Work & Resources**:  
 [Git Merge Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge)  
+
 ![Mergin](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Git_merge.png)
 
 ### Day 14: October 20th, 2019
@@ -219,7 +220,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 **Thoughts**: For anyone who reads this log 1) sorry 2) thanks! and 3) It may seem like I'm jumping around in my focus, but sometimes I need to dedicate the hour to improving my coding skills for the projects and lessons I can currently apply them to, rather than continually taking on new topics. One of my goals is to be in a position where I can contribute to open source, so learning Git is an important step in that direction, but I accept it's going to be more of a long-term objective. This week I have three concurrent data analysis assignments so Pandas is taking priority.
 
-**Work & Resources**: nothing today
+**Work & Resources**:  
+nothing today
 
 ### Day 16: October 22nd, 2019
 
@@ -228,7 +230,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Progress**: 
 - Use merges to investigate a sales funnel in Codecademy's Page Visits Funnel project
 
-**Thoughts**: This project required some extra thought, extra comments to document each step and a few sketches (maybe because I keep leaving my hour of code until the end of the day argh!). It was a good exercise in data analysis since it put my merging skills to the test and was a very applicable real-world project. I'm not certain if I got all the numbers right, but will review the answers tomorrow.
+**Thoughts**: This project required some extra thought, extra comments to document my thinking and steps, and even a few sketches. This might be attributable to the fact that I keep leaving my hour of code until the end of the day - argh! Anyway, it was a good exercise in data analysis since it put my merging skills to the test and was a very applicable real-world project. I will review the answers tomorrow to see if I actually calculated everything accurately.
 
 **Work & Resources**: 
-[Analyzing Sales Funnels](Analyzing_Funnel.py)
+[Analyzing Sales Funnels](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Analyzing_Funnel.py)
