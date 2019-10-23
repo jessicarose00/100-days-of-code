@@ -212,11 +212,23 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 ### Day 15: October 21st, 2019
 
-**Focus**: Completed Codecademy lessons on working with multiple tables in Pandas. Fixed some issues that came up during yesterday's Markdown extravaganza
+**Focus**: Complete Codecademy lessons on working with multiple tables in Pandas. Fix issues that came up during yesterday's Markdown extravaganza
 
 **Progress**: 
 - Practiced methods for combining multiple dataframes (i.e. all the different merges and concatenate)
 
 **Thoughts**: For anyone who reads this log 1) sorry 2) thanks! and 3) It may seem like I'm jumping around in my focus, but sometimes I need to dedicate the hour to improving my coding skills for the projects and lessons I can currently apply them to, rather than continually taking on new topics. One of my goals is to be in a position where I can contribute to open source, so learning Git is an important step in that direction, but I accept it's going to be more of a long-term objective. This week I have three concurrent data analysis assignments so Pandas is taking priority.
 
-**Work & Resources**:  
+**Work & Resources**: nothing today
+
+### Day 16: October 22nd, 2019
+
+**Focus**: Analyze data on website visits by building a funnel
+
+**Progress**: 
+- Use merges to investigate a sales funnel in Codecademy's Page Visits Funnel project
+
+**Thoughts**: This project required some extra thought, extra comments to document each step and a few sketches (maybe because I keep leaving my hour of code until the end of the day argh!). It was a good exercise in data analysis since it put my merging skills to the test and was a very applicable real-world project. I'm not certain if I got all the numbers right, but will review the answers tomorrow.
+
+**Work & Resources**: 
+[Analyzing Sales Funnels](Analyzing_Funnel.py)
