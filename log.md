@@ -263,7 +263,20 @@ Was graced by the following:
 - ValueError: cannot copy sequence with size 14594 to array axis with dimension 14
 - KeyError: 'week'
 
-**Thoughts**: GOODNESS. Today was a rough one. I spent an unforgivable amount of time trying to complete two exploratory data analyses. In the beginning I was grappling with some new concepts like the UnicodeDecodeErrors and learning how Python encoding works. But towards the late afternoon I was starting to confuse myself on the simplest aspects and making a general mess of my report. I’m afraid I will have to count these efforts toward my hour of code today.
+**Thoughts**: GOODNESS. Today was a rough one. I spent an unforgivable amount of time trying to complete two exploratory data analyses. In the beginning I was grappling with some new concepts like the UnicodeDecodeErrors and learning how Python encoding works. But towards the late afternoon I was starting to confuse myself on the simplest aspects and making a general mess of my report. I’m afraid I will have to count these efforts toward my hour of code today, rather than finishing up my Git course.
 
 **Work & Resources**:
  "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions." [-Einstein](https://www.alexjhughes.com/books/2017/12/20/tribe-of-mentors-tim-ferriss)
+
+ ### Day 19: October 25th, 2019
+
+**Focus**: Find out what causes a merge conflict.
+
+**Progress**: 
+- Forced a merge conflict and resolved it
+- Learned how to interpret merge conflict output and indicators
+
+**Thoughts**: I'm almost at the end of Udacity's Version Control with Git course and marveling at the level of historical tracking and safety Git can provide. It's very cool to see how it all connects. Given yesterday's struggles, I'm especially grateful that when a merge conflict happens, you can simply pop over to your code editor to see the conflict indicators and understand exactly what's going on and where. At least I hope... will only know for sure when I start getting the real merge conflicts!
+
+**Work & Resources**:
+[Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) 
