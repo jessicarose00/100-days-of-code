@@ -106,7 +106,7 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 ### Day 7: October 12th, 2019
 
-**Focus**: Learn the command that allows me to not have to 1) add my files one by one or 2) add all the files in a directory. You guessed it... .gitignore!
+**Focus**: Learn a command that allows me to not have to 1) add my files one by one or 2) add all the files in a directory. You guessed it... .gitignore!
 
 **Progress**: 
 - Used git diff to see changes that have been made to a file but not committed
@@ -234,3 +234,36 @@ nothing today
 
 **Work & Resources**: 
 [Analyzing Sales Funnels](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Analyzing_Funnel.py)
+
+### Day 17: October 23rd, 2019
+
+**Focus**: Attend a [Python Weekly Project Night Meetup](https://www.meetup.com/nycpython/) in New York to get advice on my #100daysofcode goals and projects
+
+**Progress**: 
+- Discovered two new platforms to practice my python skills - see below
+- Chatted about ways to contribute to open source projects as a beginner
+
+**Thoughts**: As I mentioned on Day 0, the self-teaching lifestyle can get a little dark hole-ish, so it's always useful to attend events where I can get advice, feedback and ideas from others. NYC Python hosts this meetup every week for people to develop, seek help and refine their Python projects. It was the perfect opportunity to chat with some people about next steps to take with my challenge. 
+
+**Work & Resources**:
+[Codingbat](https://codingbat.com/python)  
+[Exercism](https://exercism.io/)  
+
+### Day 18: October 24th, 2019
+
+**Focus**: See how many error messages I can receive in one day.
+
+**Progress**: 
+Was graced by the following:
+- AttributeError: 'Series' object has no attribute 'missed'
+- UnicodeDecodeError: 'utf8' codec can't decode byte 0x9c in position 12: ordinal not in range(128)
+- UnicodeDecodeError: 'ascii' codec can't decode byte 0x9c in position 12: ordinal not in range(128)
+- NameError: name 'attended' is not defined
+- ValueError: shape mismatch: objects cannot be broadcast to a single shape
+- ValueError: cannot copy sequence with size 14594 to array axis with dimension 14
+- KeyError: 'week'
+
+**Thoughts**: GOODNESS. Today was a rough one. I spent an unforgivable amount of time trying to complete two exploratory data analyses. In the beginning I was grappling with some new concepts like the UnicodeDecodeErrors and learning how Python encoding works. But towards the late afternoon I was starting to confuse myself on the simplest aspects and making a general mess of my report. I’m afraid I will have to count these efforts toward my hour of code today.
+
+**Work & Resources**:
+ "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions." [-Einstein](https://www.alexjhughes.com/books/2017/12/20/tribe-of-mentors-tim-ferriss)
