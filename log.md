@@ -280,3 +280,18 @@ Was graced by the following:
 
 **Work & Resources**:
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) 
+
+ ### Day 20: October 26th, 2019
+
+**Focus**: Finish Version Control with Git course.
+
+**Progress**: 
+- Learned how to modify and revert commits using git --amend, git revert and git reset
+- Learned about relative commit references and reset flags
+
+**Thoughts**: What a relief to have the ability to update my recent commits with git --amend. When I first started writing this log and experimenting with Markdown files I would often make formatting mistakes and only realize it after pushing my updates to Github. I would have to do back to back commits for very minor syntax edits. It's much better to know I can just amend my inital commit (in hindsight, I guess I could have just looked this up but you don't know what you don't know).  
+
+:tada: I'm pumped to know I have the knowledge to create repositories from scratch and review their history, make commits and branches, merge branches, resolve conflicts and undo any changes. I'm looking forward to applying my skills to some practice problems using the Git-it App.
+
+**Work & Resources**:
+[Git-it App](https://github.com/jlord/git-it-electron) 
