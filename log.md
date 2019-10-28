@@ -295,3 +295,16 @@ Was graced by the following:
 
 **Work & Resources**:
 [Git-it App](https://github.com/jlord/git-it-electron) 
+
+ ### Day 21: October 28th, 2019
+
+**Focus**: Put my skills to the test by completing all of the beginner challenges in [Git-it](https://github.com/jlord/git-it-electron) 
+
+**Progress**: 
+- Created a local and remote respository
+- Added a collaborator and submitted a pull request
+
+**Thoughts**: This app is great way to reinforce the Git fundamentals I've been learning over the past few weeks. There are a ton of suggested resources for beginner projects, which I plan to explore next.
+
+**Work & Resources**:
+[Completed Workshop](https://github.com/jessicarose00/patchwork) 
