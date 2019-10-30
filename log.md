@@ -9,7 +9,7 @@
 - Practiced data analysis with pandas
 - Had a nice intro to linear regression with an example of how to build regression models in scikit-learn
 
-**Thoughts**: While the workshop touched on a broader range of topics than would typically be covered in one day at an immersive bootcamp, it was helpful to get a feel for the pace and structure of the program. It was also a welcome break from self-study, where I'm constantly throwing questions at google/stackoverflow. Being able to pose more complex questions to Metis's Senior Data Scientists and get immediate answers was... heavenly.
+**Thoughts**: While the workshop touched on a broader range of topics than would typically be covered in one day at an immersive bootcamp, it was helpful to get a feel for the pace and structure of the program. It was also a welcome break from self-study, where I'm constantly throwing questions at google and stackoverflow. Being able to pose more complex questions to Metis's Senior Data Scientists and get immediate answers was... heavenly.
 
 **Work & Resources**:  
 [Intro to Pandas Exercise](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/1_intro_to_pandas.ipynb)
@@ -293,7 +293,7 @@ Was graced by the following:
 
 :tada: I'm pumped to know I have the knowledge to create repositories from scratch and review their history, make commits and branches, merge branches, resolve conflicts and undo any changes. I'm looking forward to applying my skills to some practice problems using the Git-it App.
 
-**Work & Resources**:
+**Work & Resources**:  
 [Git-it App](https://github.com/jlord/git-it-electron) 
 
  ### Day 21: October 28th, 2019
@@ -308,3 +308,17 @@ Was graced by the following:
 
 **Work & Resources**:
 [Completed Workshop](https://github.com/jessicarose00/patchwork) 
+
+ ### Day 22: October 30th, 2019
+
+**Focus**: Clean up my 100-days-of-code repository and explore all that Github has to offer.
+
+**Progress**: 
+- Updated my readme and resources files
+- Clicked on (almost) everything in Github
+
+**Thoughts**: I've been needing to do this for a while.
+
+**Work & Resources**:  
+[resources](resources.md)  
+[readme](README.md)  
