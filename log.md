@@ -322,3 +322,19 @@ Was graced by the following:
 **Work & Resources**:  
 [resources](resources.md)  
 [readme](README.md)  
+
+ ### Day 23: October 31st, 2019
+
+**Focus**: Jump back into Python with some refreshers on dictionaries.
+
+**Progress**: 
+- Practiced updating and adding elements to a dictionary
+- Used list comprehension to create a dictionary from two lists
+- Attempted some CodingBat problems
+
+**Thoughts**: Now that I have a better understanding of Git and the framework for collaborating with others on Github, I'd like to hone my Python skills. I feel like I'm not practicing with enough regularity and don't want to disimprove. The Codecademy lessons and CodingBat challenges are the starting point for today.  
+Picked up this cute trick
+`<new_dictionary = {key:value for key, value in zip(list1, list2)}>`
+
+**Work & Resources**:  
+[Codingbat](https://codingbat.com/python) 
