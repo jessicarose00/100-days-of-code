@@ -333,8 +333,17 @@ Was graced by the following:
 - Attempted some CodingBat problems
 
 **Thoughts**: Now that I have a better understanding of Git and the framework for collaborating with others on Github, I'd like to hone my Python skills. I feel like I'm not practicing with enough regularity and don't want to disimprove. The Codecademy lessons and CodingBat challenges are the starting point for today.  
-Picked up this cute trick
+Picked up this cute trick  
 `<new_dictionary = {key:value for key, value in zip(list1, list2)}>`
 
 **Work & Resources**:  
 [Codingbat](https://codingbat.com/python) 
+
+ ### Day 24: November 1st, 2019
+
+**Focus**: Continue the python challenges.
+
+**Thoughts**: I probably spent more time researching different platforms to practice Python than I did actually working through the challenges I found. But I got through some codecademy and tried my luck at a bite of py exercise. 
+
+**Work & Resources**:  
+[pybites](https://codechalleng.es) 
