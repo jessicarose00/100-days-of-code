@@ -347,3 +347,20 @@ Picked up this cute trick
 
 **Work & Resources**:  
 [pybites](https://codechalleng.es) 
+
+ ### Day 25: November 2nd, 2019
+
+**Focus**: Make my first contribution to open source.
+
+**Progress**: 
+- Forked the [NYC Pyladies](https://github.com/nyc-pyladies/study-group) study group repository
+- Cloned it locally and added a branch
+- Made updates to the inspiration file by adding to the list of Python resources
+- Submitted the pull request... basked in glory
+
+**Thoughts**: I've officially reached the 1st quarter mark of my 100 Days of Code Challenge. It feels good to reflect on what I've learned so far. In fact, it's pretty amazing what you can accomplish in just 25 days of commitment. I mean, I could not even post the first week of my coding activities because I had no idea how to use twitter or what to do with a fork of Alexander Kallaway's activity log template. LOOK AT ME NOW.  
+
+Since that first week, I've pushed content to my Github profile almost daily. My contribution to Pyladies NYC's study group wasn't exactly code (yesterday happened for a reason - see day 24), but I used code to get it up there. It's proof that I understand how to use a version control tool and collaborate with other developers on Github. And I'm ready for more.
+
+**Work & Resources**:  
+[My first pull request](https://github.com/nyc-pyladies/study-group/pull/4) 
