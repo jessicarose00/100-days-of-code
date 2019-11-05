@@ -364,3 +364,23 @@ Since that first week, I've pushed content to my Github profile almost daily. My
 
 **Work & Resources**:  
 [My first pull request](https://github.com/nyc-pyladies/study-group/pull/4) 
+
+### Day 26: November 4th, 2019
+
+**Focus**: Day 1 as a Diversity Scholar at Pydata 2019
+
+**Progress**: 
+- connected with an inspiring group of diversity scholars
+- attended several great [sessions](https://pydata.org/nyc2019/schedule/)
+- gathered even more advice and tips on how to contributing to open source
+
+**Thoughts**: 
+A few bites from the day:    
+- On managing stakeholders in a successful data science project -- If you want your project to focus on impact, you don't want a tools-based mindset. It's not just about simply applying the latest technology to a business problem, but really striving to understand and solve the problem that matters.
+- "If you want to be a good data scientist, you should spend ~49% of your time developing statistical intuition (i.e how to ask good questions of the data), and ~49% of your time on domain knowledge (improving overall understanding of your field). Only ~2% on methods per se." - Nate Silver
+- A new idea for contributing to open source: teach python to others, turn a written tutorial into a short course, add a fresh perspective to 
+- "It is better to be vaguely right than exactly wrong" - Carveth Read
+- [Wearable Wednesdays](https://www.meetup.com/Wearable-Wednesday-NYC/)
+
+**Work & Resources**:  
+[Pydata 2019](https://pydata.org/nyc2019/) 
