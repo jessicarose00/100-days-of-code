@@ -367,12 +367,12 @@ Since that first week, I've pushed content to my Github profile almost daily. My
 
 ### Day 26: November 4th, 2019
 
-**Focus**: Day 1 as a Diversity Scholar at Pydata 2019
+**Focus**: Day 1 as a Diversity Scholar at Pydata NYC
 
 **Progress**: 
 - connected with an inspiring group of diversity scholars
 - attended several great [sessions](https://pydata.org/nyc2019/schedule/)
-- gathered even more advice and tips on how to contributing to open source
+- gathered even more advice and tips on how to contribute to open source
 
 **Thoughts**: 
 A few bites from the day:    
@@ -384,3 +384,33 @@ A few bites from the day:
 
 **Work & Resources**:  
 [Pydata 2019](https://pydata.org/nyc2019/) 
+
+### Day 27: November 5th, 2019
+
+**Focus**: Day 2 as a Diversity Scholar at Pydata NYC
+
+**Progress**: 
+More of yesterday but even better!
+
+**Thoughts**: 
+A few bites from the day:    
+- An excellent [comment](https://twitter.com/taIuIIa/status/1191824716358656000) made by keynote speaker Chris Wiggins
+- The notion that a data scientist's can be understood as having two focuses: 1) to make a process more efficient by bringing science into decision-making 2) to build something that provides unique insights to a team/business that weren't available before
+- You can drive a car without knowing how the engine works
+- “If you torture data it will confess to anything” – Chris Wiggins
+
+**Work & Resources**:  
+[Pydata 2019](https://pydata.org/nyc2019/) 
+
+### Day 28: November 6th, 2019
+
+**Focus**: Check out some new Python resources recommended to me during Pydata NYC
+
+**Progress**: 
+- Listened to [Episode 41](https://www.datacamp.com/community/podcast/uncertainty-data-science) on DataFramed, "Uncertainty in Data Science (with Allen Downey)
+- Tested out some DataCamp Python tutorials
+
+**Thoughts**: As a big fan of Allen Downey and Hugo Bowne-Anderson following the conference this week, I allowed my brain a small rest today and enjoyed a conversation between Allen and Hugo about how humans are not always good at thinking about uncertainty.  
+
+**Work & Resources**:  
+[DataCamp Python](https://www.datacamp.com/tracks/data-scientist-with-python) 
