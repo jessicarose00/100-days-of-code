@@ -414,3 +414,19 @@ A few bites from the day:
 
 **Work & Resources**:  
 [DataCamp Python](https://www.datacamp.com/tracks/data-scientist-with-python) 
+
+### Day 29: November 7th, 2019
+
+**Focus**: Iterating through keys and values in dictionaries
+
+**Progress**: 
+- Practiced removing a key:value pair from a dictionary and adding it to an empty one
+- Learned how to use the .values() .keys() and .items() methods
+
+**Thoughts**: I'm adding a new element to my daily activity logs, which is a selection or piece of code that I learn each day. I think this will be help with memory retention and a great future reference if I need to recall certain syntax.  
+Today's piece of code iterates through the values in a dictionary and adds each value to a variable.
+`<for fruit in fruit_tree.values():
+  fruit_smoothie += i>`
+
+**Work & Resources**:  
+ 
