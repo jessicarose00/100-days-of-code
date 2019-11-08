@@ -430,3 +430,25 @@ Today's piece of code iterates through the values in a dictionary and adds each 
 
 **Work & Resources**:  
  n/a
+
+ ### Day 30: November 8th, 2019
+
+**Focus**: Put my knowledge of dictionaries to the test with a short project
+
+**Progress**: 
+- Completed Codecademy's Python 3 Scrabble project  
+
+**Thoughts**: The concept of Scrabble is a great way to apply my understanding of dictionaries. I liked that this project also tested my looping skills by ending with a nested loop.  And so, the code snippit of the day is:  
+
+```
+my_list = ['I', 'you', 'we']
+your_list = ['like', 'for', 'loops']
+
+for pronoun in my_list:
+    print(pronoun)
+    for word in your_list:
+        print(word)
+```        
+
+**Work & Resources**:  
+ [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)
