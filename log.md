@@ -407,7 +407,7 @@ A few bites from the day:
 **Focus**: Check out some new Python resources recommended to me during Pydata NYC
 
 **Progress**: 
-- Listened to [Episode 41](https://www.datacamp.com/community/podcast/uncertainty-data-science) on DataFramed, "Uncertainty in Data Science (with Allen Downey)
+- Listened to [Episode 41](https://www.datacamp.com/community/podcast/uncertainty-data-science) on DataFramed, "Uncertainty in Data Science (with Allen Downey)"
 - Tested out some DataCamp Python tutorials
 
 **Thoughts**: As a big fan of Allen Downey and Hugo Bowne-Anderson following the conference this week, I allowed my brain a small rest today and enjoyed a conversation between Allen and Hugo about how humans are not always good at thinking about uncertainty.  
@@ -423,10 +423,10 @@ A few bites from the day:
 - Practiced removing a key:value pair from a dictionary and adding it to an empty one
 - Learned how to use the .values() .keys() and .items() methods
 
-**Thoughts**: I'm adding a new element to my daily activity logs, which is a selection or piece of code that I learn each day. I think this will be help with memory retention and a great future reference if I need to recall certain syntax.  
-Today's piece of code iterates through the values in a dictionary and adds each value to a variable.
-`<for fruit in fruit_tree.values():
-  fruit_smoothie += i>`
+**Thoughts**: I'm adding a new element to my daily activity logs, which is a selection or piece of code that I learn each day. I think this will be help with memory retention and a great future reference if I need to recall certain syntax. Anyway, will give it a try for a few days.  
+Today's piece of code iterates through the values in a dictionary and adds each value to a variable.  
+`for fruit in fruit_tree.values():  
+  fruit_smoothie += i`
 
 **Work & Resources**:  
- 
+ n/a
