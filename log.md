@@ -431,7 +431,7 @@ Today's piece of code iterates through the values in a dictionary and adds each 
 **Work & Resources**:  
  n/a
 
- ### Day 30: November 8th, 2019
+### Day 30: November 8th, 2019
 
 **Focus**: Put my knowledge of dictionaries to the test with a short project
 
@@ -452,3 +452,23 @@ for pronoun in my_list:
 
 **Work & Resources**:  
  [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)
+
+### Day 31: November 10th, 2019
+
+**Focus**: Make some updates to Scrabble
+
+**Progress**: 
+- Added a function to add new words to a player's list and update point totals
+- Made the letters to points dictionary able to handle lowercase inputs
+
+**Thoughts**: These additions to my Scrabble project were admittedly difficult, but hopefully the exercise will improve my understanding of iterating through and updating dictionaries. I was unaware of the *= operator previously, so it's getting a feature in the code snippet of the day.
+
+```
+*=	
+points *= 2	
+points = points * 2
+```        
+
+**Work & Resources**:  
+ [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)
+ [Python operators](https://www.programiz.com/python-programming/operators)
