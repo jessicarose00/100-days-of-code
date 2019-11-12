@@ -470,5 +470,27 @@ points = points * 2
 ```        
 
 **Work & Resources**:  
- [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)
+ [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)  
  [Python operators](https://www.programiz.com/python-programming/operators)
+
+ ### Day 32: November 11th, 2019
+
+**Focus**: Python dictionaries and functions.
+
+**Progress**: 
+- Reviewed Python functions and dictionaries by completing some challenge exercises on Codecademy
+- Learned about Agile and Scrum
+- Celebrated the approval of my first pull request
+
+**Thoughts**: Kept pushing forward with my Python practice today. In keeping with my goal of not just writing better code but learning the tools and processes that make for agood developer, I turned to last week's AngelList newsletter. I enjoyed reading the feature article on how and why developers use the popular Agile framework Scrum. I hear it referenced often and accompanied with a variety of opinions on its effectiveness, so I wanted to better understand the methodology. The article helpfully maps out the different steps involved in old and modern software development processes. [This article](https://angel.co/blog/agile-methodology-a-primer-on-moving-fast?utm_source=platform-newsletter&utm_medium=email&utm_campaign=platform-newsletter-110719&alla%5Bsource%5D=platform) on Agile is also very concise and well written.  
+
+A function that returns the sum of the values in my dictionary.    
+```
+def sum_values(my_dictionary):
+  total = 0
+  for value in my_dictionary.values():
+    total += value
+  return total
+```          
+**Work & Resources**:  
+ [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques?utm_source=platform-newsletter&utm_medium=email&utm_campaign=platform-newsletter-110719&alla[source]=platform)  
