@@ -507,4 +507,25 @@ def sum_values(my_dictionary):
 The code of the day is the chunk of code that created the beautiful bar chart at the end of my report - linked below.  
 
 **Work & Resources**:  
-[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset-template.ipynb)
+[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
+
+### Day 34: November 13th, 2019
+
+**Focus**: Continue with the python code challenges.
+
+**Progress**: 
+- Puzzled over some more dictionary/function challenges in Codecademy
+
+**Thoughts**:  I was happy to work out a few of these, but the most difficult one required a hint (see code below). The challenge was to create a function that takes a dictionary as a parameter and returns a list of all values in the dictionary that are **also** keys.
+
+ ```
+def values_that_are_keys(my_dictionary):
+  key_values = []
+  for value in my_dictionary.values():
+    if value in my_dictionary:
+      key_values.append(value)
+  return key_values
+```  
+
+**Work & Resources**:  
+[Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
