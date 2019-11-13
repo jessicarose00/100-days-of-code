@@ -494,3 +494,17 @@ def sum_values(my_dictionary):
 ```          
 **Work & Resources**:  
  [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques?utm_source=platform-newsletter&utm_medium=email&utm_campaign=platform-newsletter-110719&alla[source]=platform)  
+
+### Day 33: November 12th, 2019
+
+**Focus**: Complete my first independent exploratory data analysis project.
+
+**Progress**: 
+- Finally completed my 'Investigate a Dataset' project submission
+
+**Thoughts**: I've been struggling to finalize an exploratory data analysis project for my Udacity Nanodegree for the past two weeks because I couldn't figure out how to create a grouped bar chart in matplotlib. I had a very specific end product visualization in mind, but not enough expertise with matplotlib to actually create it. BUT TODAY I FINALLY DID. I'm really proud of the data analysis and visualizations I completed in this project. Feel free to check it out and share your feedback!  
+
+The code of the day is the chunk of code that created the beautiful bar chart at the end of my report - linked below.  
+
+**Work & Resources**:  
+[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset-template.ipynb)
