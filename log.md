@@ -551,3 +551,22 @@ def word_length_dictionary(words):
 
 **Work & Resources**:  
 [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
+
+
+### Day 37: November 19th, 2019
+
+**Focus**: Started a freeform project focused on applying Python dictionaries to solve real world challenges. 
+
+**Progress**: 
+- Began working on Codecademy's "Abruptly Goblins Planner" project
+
+**Thoughts**: My lifelong dream of opening my own comic book store is coming true. I'm planning a game night and automating the process of finding a date that works best for the list of people who want to attend. I feel this will be a project that has value in the future! Will post code once it's working.  
+
+In the meantime, if you want to get a key, remove it from a dictionary and add the value to a variable you can use .pop()   
+ ```
+calorie_meter += food_items.pop("chocolate cake", 0)
+```  
+
+**Work & Resources**:  
+[Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
+
