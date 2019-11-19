@@ -529,3 +529,25 @@ def values_that_are_keys(my_dictionary):
 
 **Work & Resources**:  
 [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
+
+### Day 35/36: November 15th and 18th, 2019
+
+**Focus**: Finished Python dictionary challenges. 
+
+**Progress**: 
+- Finally finished all 10 dictionary/function challenge problems
+
+**Thoughts**: I was traveling and feeling unwell for the past few days so my attempts to complete this section were hindered by a lack of consistency. Not to mention I sat down on Saturday to work on them and got completely derailed trying to update/fix the mess that the macOS Catalina upgrade made of Anaconda and my terminal. Just when I was starting to get the hang of things! Anyway, these were admittedly pretty tough for me. The challenges combined functions, looping and dictionaries. I think the dictionary syntax is definitely where I am weakest so will continue to practice in this area. Hope to post a freeform project this week, but am also planning to dedicate some days to probability exercises with Python.  
+
+The code of the day is a function that takes a list of strings and returns a dictionary where every key is a word in the list and every value is the length of that word.  
+
+ ```
+def word_length_dictionary(words):
+  my_dictionary = {}
+  for i in words:
+    my_dictionary[i] = len(i)
+  return my_dictionary
+```  
+
+**Work & Resources**:  
+[Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
