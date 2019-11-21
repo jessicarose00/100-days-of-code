@@ -596,3 +596,17 @@ test_sums = tests.sum(axis=1)
 **Work & Resources**:  
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
+### Day 39: November 21st, 2019
+
+**Focus**: Make updates to my dataset investigation project.
+
+**Progress**: 
+- Added a section on limitations
+- Updated my datetime type conversion to remove the empty time slots from the "AppointmentDay" column
+- Tried very hard to add another visualization exploring multiple variables  
+
+**Thoughts**: The reviewer's feedback on my submission indicated I need to add a scatter plot or correlation matrix to my analysis to show the relationship between variables. I don't think a correlation matrix is the right approach given that most of my data is categorical. I still played around with matplotlib's matrices. A scatter plot is probably the better direction, but which variables to compare? It might be interesting to look at the age distribution of the 20% of men and women who are not showing up for their appointments, but I'm struggling to illustrate this visually.
+
+**Work & Resources**:  
+[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
+
