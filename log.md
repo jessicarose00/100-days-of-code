@@ -570,3 +570,29 @@ calorie_meter += food_items.pop("chocolate cake", 0)
 **Work & Resources**:  
 [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
 
+### Day 38: November 20th, 2019
+
+**Focus**: Put the past week of probability lessons into practice using Python. 
+
+**Progress**: 
+- Used `numpy.random.randint()`, `numpy.random.choice()` and `numpy.random.binomial()` to simulate coin flips and compute proportions
+- Calculated the probabilities by hand to confirm it was all correct
+
+**Thoughts**: I was recently accepted into General Assembly's [Data Science Immersive bootcamp](https://generalassemb.ly/education/data-science-immersive/stamford) and suddenly have very little time to complete the rest of my Udacity Nanodegree. I'll be dedicating most of my remaining hours towards completing this course since it's unlikely I'll be able to accomplish much during the bootcamp. Which also leaves my 100daysofcode plan a bit up in the air... Advice welcome!  
+
+Today is a python simulation to find the probability of producing one Heads in three fair coin flips:  
+
+ ```
+# simulate 1 million tests of three fair coin flips
+tests = np.random.randint(2, size=(int(1e6), 3))
+
+# sums of all tests
+test_sums = tests.sum(axis=1)
+
+# proportion of tests that produced exactly one head
+(test_sums == 2).mean()
+```  
+
+**Work & Resources**:  
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
