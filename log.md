@@ -610,3 +610,25 @@ test_sums = tests.sum(axis=1)
 **Work & Resources**:  
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
 
+### Day 40: November 22nd, 2019
+
+**Focus**: Complete lessons on normal distribution theory, sampling distributions and Central Limit Theorem
+
+**Progress**: 
+- Had to rewatch less tutorials than yesterday
+- Learned about the use of 'Law of Large Numbers' and 'Central Limit Theorem' in sampling distributions
+- Applied all the above concepts in Python using numpy and matplotlib  
+
+**Thoughts**: Yesterday these concepts were very challenging to grasp, but today I feel much more comfortable with them after some hands-on exercises and quizzes. I think Udacity does a great job at this. I created my own sampling distributions and calculated their mean and variance. I also applied Central Limit Theorem to a sample mean and was able to see cases where it works and doesn't work based on the size of my sample.  
+
+This loop will be important to remember. It simulates the process of 3 sample draws 10,000 times, and then stores each mean in an array.  
+
+ ```
+means_size_3 = []
+
+for _ in range(1, 10000):
+    sample = np.random.choice(pop_data, 3)
+    means_size_3.append(sample.mean())
+ ```
+
+**Work & Resources**:  
