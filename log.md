@@ -632,3 +632,15 @@ for _ in range(1, 10000):
  ```
 
 **Work & Resources**:  
+
+### Day 41 & 42: November 23 - 24th, 2019
+
+**Focus**: Continue working (struggling) with dataset investigation project.
+
+**Progress**: 
+- Attempted to create a scatter plot that would give new insights/perspectives on my dataset
+
+**Thoughts**: I'm frustrated and tired of working on this project.  
+
+**Work & Resources**:
+[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
