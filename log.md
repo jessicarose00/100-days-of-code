@@ -644,3 +644,17 @@ for _ in range(1, 10000):
 
 **Work & Resources**:
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
+
+### Day 43: November 25th, 2019
+
+**Focus**: Build a confidence interval in Python
+
+**Progress**: 
+- Built a confidence interval for the difference of the average heights for coffee drinkers and non-coffee drinkers
+- Learned about the difference between practical and statistical significance
+- Compared traditional methods to bootstrapping
+
+**Thoughts**: Today's lessons focused on applying my knowledge of bootstrapping and sampling distributions to create a confidence interval for a population parameter. Specifically, I built a confidence interval for the population mean and the difference in average heights for a group of students based on their coffee consumption habits. An important piece to keep in mind is that confidence intervals are about parameters in a population, and not about individual observations. 
+
+**Work & Resources**:
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
