@@ -671,3 +671,22 @@ for _ in range(1, 10000):
 
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+### Day 45: November 27th, 2019
+
+**Focus**: Finish second round submission of my dataset investigation.
+
+**Progress**: 
+- Added a scatter plot to illustrate patient attendance rates by age group  
+- Cleaned up the data further by dropping patient ages under zero
+
+**Thoughts**: I'm very grateful to the software engineer I met in the library who had some experience with Pandas and helped me map out exactly what I wanted to visualize in my exploratory data analysis and how to put it all together. I've been struggling to add another element to this project and was in desperate need of a fresh perspective. It was good experience to work through a problem with someone else in person, a rarity in the self-taught world! Thank you kind stranger for helping me overcome this hurdle. Tomorrow I will finalize the conclusions.  
+
+With minimal expertise using pandas, kind stranger showed me the useful pandas.index.value attribute which returns an array of the data in the given Index object:  
+
+ ```
+pd.index.values
+ ```
+
+**Work & Resources**:
+[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
