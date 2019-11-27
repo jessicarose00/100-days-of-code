@@ -658,3 +658,16 @@ for _ in range(1, 10000):
 
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+### Day 44: November 26th, 2019
+
+**Focus**: Hypothesis testing
+
+**Progress**: 
+- Learned how to set up null and alternate hypotheses and their main rules 
+- Learned about the features of Type 1 and Type 2 errors
+
+**Thoughts**: I think the strongest areas of the Udacity Nanodegree program are the quizzes and exercises sprinkled throughout each lesson. The curriculum is well designed in how it encourages hands-on, practical application of concepts through a diversity of case studies and hypothetical situations. One moment I could be writing code to find answers in a dataset or solve a math problem and the next I', working through multiple choice questions that quiz me on ideas covered in a previous video. I find the questions are challenging enough that I need to take my time, but not overwhelmingly complex that the answer is out of reach. I think this gives learners (me) the perfect balance of confidence that I'm actually grasping the new material and encouragement to keep pushing forward. Of course there are areas for improvement - a typo or bad grammar, new concepts that were overlooked, vague explanations - but overall I'm pleased with the investment. Yes I know, these reflections have nothing to do with hypothesis testing.
+
+**Work & Resources**:
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
