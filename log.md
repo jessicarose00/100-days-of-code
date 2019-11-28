@@ -674,7 +674,7 @@ for _ in range(1, 10000):
 
 ### Day 45: November 27th, 2019
 
-**Focus**: Finish second round submission of my dataset investigation.
+**Focus**: Edits to second round submission of dataset investigation.
 
 **Progress**: 
 - Added a scatter plot to illustrate patient attendance rates by age group  
@@ -687,6 +687,19 @@ With minimal expertise using pandas, kind stranger showed me the useful pandas.i
  ```
 pd.index.values
  ```
+
+**Work & Resources**:
+[Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
+
+### Day 46: November 28th, 2019
+
+**Focus**: Make final updates to dataset investigation
+
+**Progress**: 
+- Added a blue trendline to my scatterplot
+- Updated conclusions
+
+**Thoughts**: Finishing touches to my resubmission this morning! 
 
 **Work & Resources**:
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
