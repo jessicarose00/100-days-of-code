@@ -703,3 +703,16 @@ pd.index.values
 
 **Work & Resources**:
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
+
+### Day 47: December 1st, 2019
+
+**Focus**: More hypothesis testing practice
+
+**Progress**: 
+- Learned about p-values
+- Completed a number of quizzes testing my understanding of p-values and what they suggest about the null/alternative hypotheses
+
+**Thoughts**: After a busy Thanksgiving that required a few days off, I spent some extra time today trying to wrap my head around p-values. It's unfortunate that I have to rush these lessons to finish the nanodegree before my bootcamp begins in a few weeks. The topics are increasing in complexity and I would benefit from additional practice. However, I'm pleased they will equip me with a foundational understanding of the more challenging concepts we will have to grasp and apply in the program. I also enjoyed listening to Margot Gerritsen's interview on Stanford Engineering's Future of Everything podcast.
+
+**Work & Resources**:
+[https://www.widsconference.org/margot-gerritsen2.html](https://www.widsconference.org/margot-gerritsen2.html)
