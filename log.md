@@ -715,4 +715,18 @@ pd.index.values
 **Thoughts**: After a busy Thanksgiving that required a few days off, I spent some extra time today trying to wrap my head around p-values. It's unfortunate that I have to rush these lessons to finish the nanodegree before my bootcamp begins in a few weeks. The topics are increasing in complexity and I would benefit from additional practice. However, I'm pleased they will equip me with a foundational understanding of the more challenging concepts we will have to grasp and apply in the program. I also enjoyed listening to Margot Gerritsen's interview on Stanford Engineering's Future of Everything podcast.
 
 **Work & Resources**:
-[https://www.widsconference.org/margot-gerritsen2.html](https://www.widsconference.org/margot-gerritsen2.html)
+[How to Get More Women Into Data Science](https://www.widsconference.org/margot-gerritsen2.html)
+
+### Day 48: December 2nd, 2019
+
+**Focus**: A deeper dive into A/B testing
+
+**Progress**:   
+- Computed the observed difference between the click through rate metric for my control and experiment group
+- Simulated the sampling distribution for this difference
+- Next I will simulate the distribution under the null hypothesis and compute the p-value
+
+**Thoughts**: Today I applied what I've been learning on confidence intervals and hypothesis testing to help a company decide whether they should launch some changes on their website. I was somewhat familiar with A/B testing but this lesson took a much deeper dive and also exposed me to the shortcomings of using this method. 
+
+**Work & Resources**:
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
