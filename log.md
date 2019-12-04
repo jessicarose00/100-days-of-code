@@ -730,3 +730,18 @@ pd.index.values
 
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+### Day 49: December 3rd, 2019
+
+**Focus**: Introduction to data wrangling
+
+**Progress**:   
+- **Gather:** learned how to programmatically unzip a file and import data into a jupyter notebook
+- **Assess:** assessed data for quality and tidiness - recognizing the difference between the two
+- **Clean:** learned about the programmatic cleaning process: define, code, test
+
+**Thoughts**: I'm taking a break from stats for the next few days to focus on data wrangling. Today's lessons took me through the data wrangling process, where I applied my coding skills to gather, assess and clean a real dataset from Kaggle. Interesting takeaways were the differences between exploratory data analysis and data wrangling, which are quite similar and can often be confused. It was also surprising to learn that data doesn't always have to be "tidy" and that there are many advantages to having "non-tidy" data. Read more [here](https://simplystatistics.org/2016/02/17/non-tidy-data/).
+
+**Work & Resources**:
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
