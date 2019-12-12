@@ -745,3 +745,9 @@ pd.index.values
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
+### Day 50: December 10th, 2019
+
+**Focus**: Pausing
+
+**Thoughts**: After much consideration, I've decided to pause my 100 days of code challenge until I complete my data science immersive with General Assembly. While I will be coding at a minimum one hour every day for the next 97 days (to be exact), I want to be able to commit myself fully to the program. This means taking breaks from screens outside of bootcamp hours and ensuring good mental and emotional habits during off hours. In March I will resume the challenge on Day 51, 97 days wiser and better at coding. See you then!
+
