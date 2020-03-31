@@ -1,6 +1,8 @@
 # My Activity
+[Day 0](#Day-0), [Day 26](#Day-26)
 
-### Day 0: October 5th, 2019
+### Day 0
+#### October 5th, 2019
 
 **Focus**: What better way to kick off my commitment to 100 days of code than attend a one day coding bootcamp? Today I attended "One Day at Bootcamp" hosted by Metis in New York City. The workshop featured lessons on Python, with a focus on Pandas and SciKit Learn. 
 
@@ -22,7 +24,7 @@ After seeking external advice I decided to prioritize building some Git skills u
 
 **Progress**: 
 - Installed Git
-- onfigured my terminal and code editor
+- Configured my terminal and code editor
 - Practiced creating and navigating around directories in the terminal
 - Created my first repository from scratch
 
@@ -365,7 +367,8 @@ Since that first week, I've pushed content to my Github profile almost daily. My
 **Work & Resources**:  
 [My first pull request](https://github.com/nyc-pyladies/study-group/pull/4) 
 
-### Day 26: November 4th, 2019
+### Day 26
+#### November 4th, 2019
 
 **Focus**: Day 1 as a Diversity Scholar at Pydata NYC
 
