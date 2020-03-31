@@ -1,7 +1,7 @@
 # 100 Days Of Code Challenge
 Welcome to my Challenge!
 
-On October 5th, 2019 I committed to coding one hour, every day, for 100 days. Halfway through the challenge, I was accepted to a data science bootcamp and paused (coincidentally coding many hrs per day for 12 weeks). I kicked off day 51 on March 31st, 2020.
+On October 5th, 2019 I committed to coding one hour, every day, for 100 days. Halfway through the challenge, I was accepted to a data science bootcamp and paused (coincidentally coding many hours per day for 12 weeks). I kicked off day 51 on March 31st, 2020.
 
 ## Rules
 1. I will [tweet](https://twitter.com/taIuIIa) about my progress every day using the hashtag #100DaysOfCode
