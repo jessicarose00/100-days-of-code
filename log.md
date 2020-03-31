@@ -1,5 +1,11 @@
 # My Activity
-[Day 0](#Day-0), [Day 26](#Day-26)
+
+## Part 1
+[Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | 
+
+## Part 2
+[Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | 
+
 
 ### Day 0
 #### October 5th, 2019
@@ -16,7 +22,8 @@
 **Work & Resources**:  
 [Intro to Pandas Exercise](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/1_intro_to_pandas.ipynb)
 
-### Day 1: October 6th, 2019
+### Day 1 
+#### October 6th, 2019
 
 **Focus**: I’m new to coding and have accepted the fact that the beginning half of this challenge will be heavier on tutorials and learning than building my own projects from scratch. In taking on the 100daysofcode challenge, I intend push myself to move beyond conceptual learning and really create something tangible. It's a great way to measure and practice documenting my progress.  
 
@@ -34,7 +41,8 @@ After seeking external advice I decided to prioritize building some Git skills u
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 [A nice Git cheat sheet](https://gist.github.com/jedmao/5053440)
 
-### Day 2: October 7th, 2019
+### Day 2
+#### October 7th, 2019
 
 **Focus**: Learn two of the most important Git commands:  git status and git log. 
 
@@ -51,7 +59,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
-### Day 3: October 8th, 2019
+### Day 3
+#### October 8th, 2019
 
 **Focus**: More focus on the git log command today, including a detailed exploration of each nugget of information the git log command displays.
 
@@ -65,7 +74,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 
-### Day 4: October 9th, 2019
+### Day 4
+#### October 9th, 2019
 
 **Focus**: Shortcuts with git show.
 
@@ -78,7 +88,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-### Day 5: October 10th, 2019
+### Day 5
+#### October 10th, 2019
 
 **Focus**: Commit, commit, commit.
 
@@ -92,7 +103,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 
-### Day 6: October 11th, 2019
+### Day 6
+#### October 11th, 2019
 
 **Focus**: Get some practice with markdown by cleaning up my activity log.
 
@@ -106,7 +118,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
 
-### Day 7: October 12th, 2019
+### Day 7
+#### October 12th, 2019
 
 **Focus**: Learn a command that allows me to not have to 1) add my files one by one or 2) add all the files in a directory. You guessed it... .gitignore!
 
@@ -750,7 +763,21 @@ pd.index.values
 
 ### Day 50: December 10th, 2019
 
-**Focus**: Pausing
+**Focus**: Pausing challenge
 
 **Thoughts**: After much consideration, I've decided to pause my 100 days of code challenge until I complete my data science immersive with General Assembly. While I will be coding at a minimum one hour every day for the next 97 days (to be exact), I want to be able to commit myself fully to the program. This means taking breaks from screens outside of bootcamp hours and ensuring good mental and emotional habits during off hours. In March I will resume the challenge on Day 51, 97 days wiser and better at coding. See you then!
+
+### Day 51 
+#### March 31, 2020
+
+**Focus**: Portfolio development 
+
+**Progress**:
+- started cleaning up one of my portfolio pieces - in this project I scraped Reddit data and built a natural language processing model to classify and differentiate two subreddits from one another
+- cleaned up my 100 days of code repo
+
+**Thoughts**: Very funny to reflect on where I was four months ago and excited to kick this challenge off again. At the moment I'm focused on cleaning up my projects from the data science bootcamp, developing my portfolio and keeping my coding skills sharp. I will also be trying to pick up a few new skills to equip me for the job market.
+
+**Work & Resources**:
+[NLP Reddit Project](https://github.com/jessicarose00/nlp_reddit)
 
