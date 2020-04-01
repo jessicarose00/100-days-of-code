@@ -781,3 +781,17 @@ pd.index.values
 **Work & Resources**:
 [NLP Reddit Project](https://github.com/jessicarose00/nlp_reddit)
 
+### Day 52 
+#### April 1, 2020
+
+**Focus**: Portfolio development 
+
+**Progress**:
+- tested some new hyperparameters, somewhat improved accuracy scores but increased overfitting
+- rewrote the conclusion section
+
+**Thoughts**: Updating these projects has been an interesting refresher...
+
+**Work & Resources**:
+[NLP Reddit Project](https://github.com/jessicarose00/nlp_reddit)
+
