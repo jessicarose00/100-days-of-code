@@ -1,7 +1,7 @@
 # My Activity
 
 ## Part 1
-[Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | 
+[Day 0](#Day-0) | [Day 1](#Day-1) | [Day 2](#Day-2) | [Day 3](#Day-3) | [Day 4](#Day-4) | [Day 5](#Day-5) | [Day 6](#Day-6) | [Day 7](#Day-7) | [Day 8](#Day-8) | [Day 9](#Day-9) | [Day 10](#Day-10) | [Day 11](#Day-11) | [Day 12](#Day-12) | [Day 13](#Day-13) | [Day 14](#Day-14) | [Day 15](#Day-15) | [Day 16](#Day-16) | [Day 17](#Day-17) | [Day 18](#Day-18) | [Day 19](#Day-19) | [Day 20](#Day-20) | [Day 21](#Day-21) | [Day 22](#Day-22) | [Day 23](#Day-23) | [Day 24](#Day-24) | [Day 25](#Day-25) | [Day 26](#Day-26) | [Day 27](#Day-27) | [Day 29](#Day-29) | [Day 30](#Day-30) | [Day 31](#Day-31) | [Day 32](#Day-32) | [Day 33](#Day-33) | [Day 34](#Day-34) | [Day 35](#Day-35) | [Day 36](#Day-36) | [Day 37](#Day-37) | [Day 38](#Day-38) | [Day 39](#Day-39) | [Day 40](#Day-40) | [Day 41](#Day-41) | [Day 42](#Day-42) | [Day 43](#Day-43) | [Day 44](#Day-44) | [Day 45](#Day-45) | [Day 46](#Day-46) | [Day 47](#Day-47) | [Day 48](#Day-48) | [Day 49](#Day-49) | [Day 50](#Day-50) | 
 
 ## Part 2
 [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 0](#Day-0) | [Day 1](#Day-1) | 
@@ -794,4 +794,17 @@ pd.index.values
 
 **Work & Resources**:
 [NLP Reddit Project](https://github.com/jessicarose00/nlp_reddit)
+
+### Day 53
+#### April 2, 2020
+
+**Focus**: Python practice
+
+**Progress**:
+- turning to [Codewars](https://www.codewars.com/) to keep my Python skills sharp!
+
+**Thoughts**: I haven't used Codewars for a while and completely forgot how the levels are structured, so the first half of this practice session left me depressed and pessimistic about my programming future. Then I finally read the Wiki page and realized kyu start at level 8 and get progressively harder as you work down to level 1, not the other way around. Reading instructions. Always good.
+
+**Work & Resources**:
+[Codewars](https://www.codewars.com/)
 
