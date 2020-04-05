@@ -1,7 +1,7 @@
 # My Activity
 
 ## Part 1
-[Day 0](#Day-0) | [Day 1](#Day-1) | [Day 2](#Day-2) | [Day 3](#Day-3) | [Day 4](#Day-4) | [Day 5](#Day-5) | [Day 6](#Day-6) | [Day 7](#Day-7) | [Day 8](#Day-8) | [Day 9](#Day-9) | [Day 10](#Day-10) | [Day 11](#Day-11) | [Day 12](#Day-12) | [Day 13](#Day-13) | [Day 14](#Day-14) | [Day 15](#Day-15) | [Day 16](#Day-16) | [Day 17](#Day-17) | [Day 18](#Day-18) | [Day 19](#Day-19) | [Day 20](#Day-20) | [Day 21](#Day-21) | [Day 22](#Day-22) | [Day 23](#Day-23) | [Day 24](#Day-24) | [Day 25](#Day-25) | [Day 26](#Day-26) | [Day 27](#Day-27) | [Day 29](#Day-29) | [Day 30](#Day-30) | [Day 31](#Day-31) | [Day 32](#Day-32) | [Day 33](#Day-33) | [Day 34](#Day-34) | [Day 35](#Day-35) | [Day 36](#Day-36) | [Day 37](#Day-37) | [Day 38](#Day-38) | [Day 39](#Day-39) | [Day 40](#Day-40) | [Day 41](#Day-41) | [Day 42](#Day-42) | [Day 43](#Day-43) | [Day 44](#Day-44) | [Day 45](#Day-45) | [Day 46](#Day-46) | [Day 47](#Day-47) | [Day 48](#Day-48) | [Day 49](#Day-49) | [Day 50](#Day-50) | 
+[Day 0](#Day-0) | [Day 1](#Day-1) | [Day 2](#Day-2) | [Day 3](#Day-3) | [Day 4](#Day-4) | [Day 5](#Day-5) | [Day 6](#Day-6) | [Day 7](#Day-7) | [Day 8](#Day-8) | [Day 9](#Day-9) | [Day 10](#Day-10) | [Day 11](#Day-11) | [Day 12](#Day-12) | [Day 13](#Day-13) | [Day 14](#Day-14) | [Day 15](#Day-15) | [Day 16](#Day-16) | [Day 17](#Day-17) | [Day 18](#Day-18) | [Day 19](#Day-19) | [Day 20](#Day-20) | [Day 21](#Day-21) | [Day 22](#Day-22) | [Day 23](#Day-23) | [Day 24](#Day-24) | [Day 25](#Day-25) | [Day 26](#Day-26) | [Day 27](#Day-27) | [Day 29](#Day-29) | [Day 30](#Day-30) | [Day 31](#Day-31) | [Day 32](#Day-32) | [Day 33](#Day-33) | [Day 34](#Day-34) | [Day 35](#Day-35/36) | [Day 36](#Day-35/36) | [Day 37](#Day-37) | [Day 38](#Day-38) | [Day 39](#Day-39) | [Day 40](#Day-40) | [Day 41](#Day-41/42) | [Day 42](#Day-41/42) | [Day 43](#Day-43) | [Day 44](#Day-44) | [Day 45](#Day-45) | [Day 46](#Day-46) | [Day 47](#Day-47) | [Day 48](#Day-48) | [Day 49](#Day-49) | [Day 50](#Day-50) | 
 
 ## Part 2
 [Day 51](#Day-51) | [Day 52](#Day-52) | [Day 53](#Day-53) | [Day 54](#Day-54) | [Day 55](#Day-55) | [Day 56](#Day-56) | [Day 57](#Day-57) | [Day 58](#Day-58) | [Day 59](#Day-59) | [Day 60](#Day-60) | [Day 61](#Day-61) | [Day 62](#Day-62) | [Day 63](#Day-63) | [Day 64](#Day-64) | [Day 65](#Day-65) | [Day 66](#Day-66) | [Day 67](#Day-67) | [Day 68](#Day-68) | [Day 69](#Day-69) | [Day 70](#Day-70) | [Day 71](#Day-71) | [Day 72(#Day-72) | [Day 73](#Day-73) | [Day 74](#Day-74) | [Day 75](#Day-75) | [Day 76](#Day-76) | [Day 77](#Day-77) | [Day 78](#Day-78) | [Day 79](#Day-79) | [Day 80](#Day-80) | [Day 81](#Day-81) | [Day 82](#Day-82) | [Day 83](#Day-83) | [Day 84](#Day-84) | [Day 85](#Day-85) | [Day 86](#Day-86) | [Day 87](#Day-87) | [Day 88](#Day-88) | [Day 89](#Day-89) | [Day 90](#Day-90) | [Day 91](#Day-91) | [Day 92](#Day-92) | [Day 93](#Day-93) | [Day 94](#Day-94) | [Day 95](#Day-95) | [Day 96](#Day-96) | [Day 97](#Day-97) | [Day 98](#Day-98) | [Day 99](#Day-99) | [Day 100](#Day-100) | 
@@ -132,7 +132,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:   
 [.gitignore documentation](https://git-scm.com/docs/gitignore)
 
-### Day 8: October 13th, 2019
+### Day 8
+#### October 13th, 2019
 
 **Focus**: Today's focus was branches and learning to --decorate my project with tags (even though the log command in Git version 2.13 is automatically decorated)
 
@@ -147,7 +148,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 [git tag documentation](https://git-scm.com/docs/git-tag)  
 [Happy Git and GitHub for the useR - branches](https://happygitwithr.com/git-branches.html)
 
-### Day 9: October 14th, 2019
+### Day 9
+#### October 14th, 2019
 
 **Focus**: I've been struggling through a data analysis case study as part of my [Udacity Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and decided to take a break from Git to practice creating and manipulating tables with Pandas. I worked through the lessons and quizzes in Codecademy's data science track.
 
@@ -159,7 +161,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
 
-### Day 10: October 15th, 2019
+### Day 10
+#### October 15th, 2019
 
 **Focus**: Focusing on lambda functions and Pandas again today.
 
@@ -171,7 +174,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Power Petal Inventory](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/PPInventory.py)
 
-### Day 11: October 16th, 2019
+### Day 11
+#### October 16th, 2019
 
 **Focus**: I'm pleased to announce that today was a much smoother day with pandas! Really enforces the power of practice. I was focused on aggregates and learned how to reorganize a data frame with pivoting.
 
@@ -184,7 +188,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Pandas Comparison with SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)
 
-### Day 12: October 17th, 2019
+### Day 12
+#### October 17th, 2019
 
 **Focus**: Back to Git. There's still much fine tuning needed on the data analysis front, but I'm already working with pandas in my courses and am afraid I might start to forget the new Git concepts if I'm not using them regularly (there's a lot of new information entering my brain these days). Today's focus was on branching effectively.
 
@@ -198,7 +203,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Tutorial: Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
 
-### Day 13: October 18th, 2019
+### Day 13
+#### October 18th, 2019
 
 **Focus**: Merging branches, the beauty and power behind Git. It helps to have a better grasp on how Git merge combines multiple sequences of commits into one unified history.
 
@@ -213,7 +219,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 
 ![Mergin](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Git_merge.png)
 
-### Day 14: October 20th, 2019
+### Day 14
+#### October 20th, 2019
 
 **Focus**: As I progress in my understanding of Git, I'm recognizing the importance of clear, well documented code. I took some time today to explore the common structure and best practices for readme files. I also picked up some more basic markdown syntax.
 
@@ -226,7 +233,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 [Writing READMEs by Udacity](https://www.udacity.com/course/writing-readmes--ud777)
 
-### Day 15: October 21st, 2019
+### Day 15
+#### October 21st, 2019
 
 **Focus**: Complete Codecademy lessons on working with multiple tables in Pandas. Fix issues that came up during yesterday's Markdown extravaganza
 
@@ -238,7 +246,8 @@ I also downloaded and experimented with Github Desktop… not for me at this poi
 **Work & Resources**:  
 nothing today
 
-### Day 16: October 22nd, 2019
+### Day 16
+#### October 22nd, 2019
 
 **Focus**: Analyze data on website visits by building a funnel
 
@@ -250,7 +259,8 @@ nothing today
 **Work & Resources**: 
 [Analyzing Sales Funnels](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Analyzing_Funnel.py)
 
-### Day 17: October 23rd, 2019
+### Day 17
+#### October 23rd, 2019
 
 **Focus**: Attend a [Python Weekly Project Night Meetup](https://www.meetup.com/nycpython/) in New York to get advice on my #100daysofcode goals and projects
 
@@ -264,7 +274,8 @@ nothing today
 [Codingbat](https://codingbat.com/python)  
 [Exercism](https://exercism.io/)  
 
-### Day 18: October 24th, 2019
+### Day 18
+#### October 24th, 2019
 
 **Focus**: See how many error messages I can receive in one day.
 
@@ -283,7 +294,8 @@ Was graced by the following:
 **Work & Resources**:
  "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions." [-Einstein](https://www.alexjhughes.com/books/2017/12/20/tribe-of-mentors-tim-ferriss)
 
- ### Day 19: October 25th, 2019
+ ### Day 19
+ #### October 25th, 2019
 
 **Focus**: Find out what causes a merge conflict.
 
@@ -296,7 +308,8 @@ Was graced by the following:
 **Work & Resources**:
 [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) 
 
- ### Day 20: October 26th, 2019
+ ### Day 20
+ #### October 26th, 2019
 
 **Focus**: Finish Version Control with Git course.
 
@@ -311,7 +324,8 @@ Was graced by the following:
 **Work & Resources**:  
 [Git-it App](https://github.com/jlord/git-it-electron) 
 
- ### Day 21: October 28th, 2019
+ ### Day 21
+ #### October 28th, 2019
 
 **Focus**: Put my skills to the test by completing all of the beginner challenges in [Git-it](https://github.com/jlord/git-it-electron) 
 
@@ -324,7 +338,8 @@ Was graced by the following:
 **Work & Resources**:
 [Completed Workshop](https://github.com/jessicarose00/patchwork) 
 
- ### Day 22: October 30th, 2019
+ ### Day 22
+ #### October 30th, 2019
 
 **Focus**: Clean up my 100-days-of-code repository and explore all that Github has to offer.
 
@@ -338,7 +353,8 @@ Was graced by the following:
 [resources](resources.md)  
 [readme](README.md)  
 
- ### Day 23: October 31st, 2019
+ ### Day 23
+ #### October 31st, 2019
 
 **Focus**: Jump back into Python with some refreshers on dictionaries.
 
@@ -354,7 +370,8 @@ Picked up this cute trick
 **Work & Resources**:  
 [Codingbat](https://codingbat.com/python) 
 
- ### Day 24: November 1st, 2019
+ ### Day 24
+ #### November 1st, 2019
 
 **Focus**: Continue the python challenges.
 
@@ -363,7 +380,8 @@ Picked up this cute trick
 **Work & Resources**:  
 [pybites](https://codechalleng.es) 
 
- ### Day 25: November 2nd, 2019
+ ### Day 25
+ #### November 2nd, 2019
 
 **Focus**: Make my first contribution to open source.
 
@@ -401,7 +419,8 @@ A few bites from the day:
 **Work & Resources**:  
 [Pydata 2019](https://pydata.org/nyc2019/) 
 
-### Day 27: November 5th, 2019
+### Day 27
+#### November 5th, 2019
 
 **Focus**: Day 2 as a Diversity Scholar at Pydata NYC
 
@@ -418,7 +437,8 @@ A few bites from the day:
 **Work & Resources**:  
 [Pydata 2019](https://pydata.org/nyc2019/) 
 
-### Day 28: November 6th, 2019
+### Day 28
+#### November 6th, 2019
 
 **Focus**: Check out some new Python resources recommended to me during Pydata NYC
 
@@ -431,7 +451,8 @@ A few bites from the day:
 **Work & Resources**:  
 [DataCamp Python](https://www.datacamp.com/tracks/data-scientist-with-python) 
 
-### Day 29: November 7th, 2019
+### Day 29
+#### November 7th, 2019
 
 **Focus**: Iterating through keys and values in dictionaries
 
@@ -447,7 +468,8 @@ Today's piece of code iterates through the values in a dictionary and adds each 
 **Work & Resources**:  
  n/a
 
-### Day 30: November 8th, 2019
+### Day 30
+#### November 8th, 2019
 
 **Focus**: Put my knowledge of dictionaries to the test with a short project
 
@@ -469,7 +491,8 @@ for pronoun in my_list:
 **Work & Resources**:  
  [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)
 
-### Day 31: November 10th, 2019
+### Day 31
+#### November 10th, 2019
 
 **Focus**: Make some updates to Scrabble
 
@@ -489,7 +512,8 @@ points = points * 2
  [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)  
  [Python operators](https://www.programiz.com/python-programming/operators)
 
- ### Day 32: November 11th, 2019
+ ### Day 32
+ #### November 11th, 2019
 
 **Focus**: Python dictionaries and functions.
 
@@ -511,7 +535,8 @@ def sum_values(my_dictionary):
 **Work & Resources**:  
  [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques?utm_source=platform-newsletter&utm_medium=email&utm_campaign=platform-newsletter-110719&alla[source]=platform)  
 
-### Day 33: November 12th, 2019
+### Day 33
+#### November 12th, 2019
 
 **Focus**: Complete my first independent exploratory data analysis project.
 
@@ -525,7 +550,8 @@ The code of the day is the chunk of code that created the beautiful bar chart at
 **Work & Resources**:  
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
 
-### Day 34: November 13th, 2019
+### Day 34
+#### November 13th, 2019
 
 **Focus**: Continue with the python code challenges.
 
@@ -546,7 +572,8 @@ def values_that_are_keys(my_dictionary):
 **Work & Resources**:  
 [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
 
-### Day 35/36: November 15th and 18th, 2019
+### Day 35/36
+#### November 15th and 18th, 2019
 
 **Focus**: Finished Python dictionary challenges. 
 
@@ -569,7 +596,8 @@ def word_length_dictionary(words):
 [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 
-### Day 37: November 19th, 2019
+### Day 37
+#### November 19th, 2019
 
 **Focus**: Started a freeform project focused on applying Python dictionaries to solve real world challenges. 
 
@@ -586,7 +614,8 @@ calorie_meter += food_items.pop("chocolate cake", 0)
 **Work & Resources**:  
 [Codecademy Python 3](https://www.codecademy.com/learn/learn-python-3)
 
-### Day 38: November 20th, 2019
+### Day 38
+#### November 20th, 2019
 
 **Focus**: Put the past week of probability lessons into practice using Python. 
 
@@ -612,7 +641,8 @@ test_sums = tests.sum(axis=1)
 **Work & Resources**:  
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-### Day 39: November 21st, 2019
+### Day 39
+#### November 21st, 2019
 
 **Focus**: Make updates to my dataset investigation project.
 
@@ -626,7 +656,8 @@ test_sums = tests.sum(axis=1)
 **Work & Resources**:  
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
 
-### Day 40: November 22nd, 2019
+### Day 40
+#### November 22nd, 2019
 
 **Focus**: Complete lessons on normal distribution theory, sampling distributions and Central Limit Theorem
 
@@ -649,7 +680,8 @@ for _ in range(1, 10000):
 
 **Work & Resources**:  
 
-### Day 41 & 42: November 23 - 24th, 2019
+### Day 41/42
+#### November 23 - 24th, 2019
 
 **Focus**: Continue working (struggling) with dataset investigation project.
 
@@ -661,7 +693,8 @@ for _ in range(1, 10000):
 **Work & Resources**:
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
 
-### Day 43: November 25th, 2019
+### Day 43
+#### November 25th, 2019
 
 **Focus**: Build a confidence interval in Python
 
@@ -675,7 +708,8 @@ for _ in range(1, 10000):
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-### Day 44: November 26th, 2019
+### Day 44
+#### November 26th, 2019
 
 **Focus**: Hypothesis testing
 
@@ -688,7 +722,8 @@ for _ in range(1, 10000):
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-### Day 45: November 27th, 2019
+### Day 45
+#### November 27th, 2019
 
 **Focus**: Edits to second round submission of dataset investigation.
 
@@ -707,7 +742,8 @@ pd.index.values
 **Work & Resources**:
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
 
-### Day 46: November 28th, 2019
+### Day 46
+#### November 28th, 2019
 
 **Focus**: Make final updates to dataset investigation
 
@@ -720,7 +756,8 @@ pd.index.values
 **Work & Resources**:
 [Investigate a Dataset](https://github.com/jessicarose00/Udacity_Nanodegree/blob/master/investigate-a-dataset.ipynb)
 
-### Day 47: December 1st, 2019
+### Day 47
+#### December 1st, 2019
 
 **Focus**: More hypothesis testing practice
 
@@ -733,7 +770,8 @@ pd.index.values
 **Work & Resources**:
 [How to Get More Women Into Data Science](https://www.widsconference.org/margot-gerritsen2.html)
 
-### Day 48: December 2nd, 2019
+### Day 48
+#### December 2nd, 2019
 
 **Focus**: A deeper dive into A/B testing
 
@@ -747,7 +785,8 @@ pd.index.values
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-### Day 49: December 3rd, 2019
+### Day 49
+#### December 3rd, 2019
 
 **Focus**: Introduction to data wrangling
 
@@ -761,7 +800,8 @@ pd.index.values
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-### Day 50: December 10th, 2019
+### Day 50
+#### December 10th, 2019
 
 **Focus**: Pausing challenge
 
@@ -821,4 +861,19 @@ pd.index.values
 
 **Work & Resources**:
 [Codewars](https://www.codewars.com/)
+
+### Day 55
+#### April 4, 2020
+
+**Focus**: Neural network practice
+
+**Progress**:
+- learned about the most basic type of neural net (the single neuron perceptron) 
+- returned to Codecademy's Data Science track to work on the perceptrons and neural nets chapter
+
+**Thoughts**: I'd like to dedicate a few days to better understanding/practicing this topic since it was only covered briefly in the final lessons of bootcamp. Today I learned about perceptrons, which are the building blocks of neural networks. 
+
+**Work & Resources**:
+[Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
+
 
