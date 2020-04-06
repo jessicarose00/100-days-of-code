@@ -877,14 +877,27 @@ pd.index.values
 [Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
 
 ### Day 56
-#### April 4, 2020
+#### April 5, 2020
 
 **Focus**: Neural network practice
 
 **Progress**:
 - finished perceptrons and neural nets chapter
 
-**Thoughts**: Built a perceptron logic gate and visualized it using matplotlib's heatmap to see the decision boundary. This helped reinforce the idea that perceptrons are not linearly seperable, but by combining multiple perceptrons together (enter neural net) you can solve this issue.
+**Thoughts**: Built a perceptron logic gate and visualized it using matplotlib's heatmap to see the decision boundary. This helped reinforce the idea that perceptrons are not linearly seperable, but by combining multiple perceptrons together (enter neural net) you can learn non-linear, complex relationships within the data.
 
 **Work & Resources**:
 [Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
+
+### Day 57
+#### April 6, 2020
+
+**Focus**: Neural network review
+
+**Progress**:
+- reviewed the intro to neural nets lesson from my data science bootcamp
+
+**Thoughts**: One of the last labs we did in the bootcamp involved building a neural network to recognize handwritten digits. The lab spun off an ongoing [Kaggle competition](https://www.kaggle.com/c/digit-recognizer) that uses the infamous MNIST dataset of handwritten images. I'm going to build out the notebook I already started in class to get some practice with these techniques.
+
+**Work & Resources**:
+coming soon.
