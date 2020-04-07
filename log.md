@@ -901,3 +901,18 @@ pd.index.values
 
 **Work & Resources**:
 coming soon.
+
+### Day 58
+#### April 7, 2020
+
+**Focus**: Neural network review
+
+**Progress**:
+- reviewed lessons on convolutional neural networks
+- refreshed my memory & updated digit recognition notebook
+
+**Thoughts**: Reviewed the lesson on CNNs was a helpful reminder of how they are applied to image data and can be much more efficient than other neural networks. 
+
+**Work & Resources**:
+[Digit Recognizer Kaggle competition](https://www.kaggle.com/c/digit-recognizer)
+[Digit Recognition Project]{https://github.com/jessicarose00/digit_recognition/blob/master/Digit_Recognizer_Kaggle.ipynb}
