@@ -1,23 +1,47 @@
 # Library of Resources for #100DaysOfCode
 
-A compilation of the many resources I have either referenced, use or admire as I work through this Challenge.  
+A compilation of the many resources I have either referenced, use or admire.  
 
-### Online Courses & Tutorials
+## Data Science & Data Analysis Courses
 - [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-- [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-- [Udacity's Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 - [Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
 
-### Websites
-- [The #100DaysOfCode Official Site](http://100daysofcode.com/)
-- [Codingbat](https://codingbat.com/python)  
-- [Exercism](https://exercism.io/)  
+### Data Science with an Environmental Focus
+- [Earth Data Science](https://www.earthdatascience.org/)
+- [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course)
 
-### Articles
+### Git & Github
+- [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Udacity's Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+
+### Data Manipulation & Analysis
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+### Data Visualization
+- [Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
+
+### Probability
+- [Bayes Theorem: 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+
+### Python 
+- [Codingbat](https://codingbat.com/python)  
+- [Exercism](https://exercism.io/) 
+- [Codewars](https://www.codewars.com/) 
+
+### Machine Learning
+- [Comparison of Classic Machine Learning Algorithms](https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222)
+- [What is the difference between Boosting and Bagging?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+
+### Deep Learning
+- [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.98545&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+### Portfolio Building
 - [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/engineering/open-source_gettingstarted/)
 
 ### Podcasts
 - [Data Stories](https://datastori.es/)
+- [Developer Tea](https://developertea.simplecast.fm/)
+- [Women in Data Science](https://www.widsconference.org/podcast.html)
 
 ## Contents
 * [Activity Log](log.md)
