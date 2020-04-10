@@ -909,10 +909,25 @@ coming soon.
 
 **Progress**:
 - reviewed lessons on convolutional neural networks
-- refreshed my memory & updated digit recognition notebook
+- refreshed my memory & updated digit recognition project
 
 **Thoughts**: Reviewed the lesson on CNNs was a helpful reminder of how they are applied to image data and can be much more efficient than other neural networks. 
 
 **Work & Resources**:
-[Digit Recognizer Kaggle competition](https://www.kaggle.com/c/digit-recognizer)
-[Digit Recognition Project]{https://github.com/jessicarose00/digit_recognition/blob/master/Digit_Recognizer_Kaggle.ipynb}
+[Kaggle competition](https://www.kaggle.com/c/digit-recognizer)
+[Digit Recognition Project](https://github.com/jessicarose00/digit_recognition/blob/master/Digit_Recognizer_Kaggle.ipynb)
+
+### Day 59
+#### April 9, 2020
+
+**Focus**: Neural network review
+
+**Progress**:
+- added SVM model to digit recognition project
+- studied the different dimension requirements for SVM vs. CNN input data 
+
+**Thoughts**: Since support vector machines (SVMs) can also be used when we have non-linear separation between classes, I wanted to add this model to my analysis. However, gridsearching over different hyperparameters was a mistake! The model was taking hours to fit, which I should have anticipated given there are 780 features. I'll approach it again tomorrow. Also worked on a function to visualize the training and testing loss for each model. 
+
+**Work & Resources**:
+[Kaggle competition](https://www.kaggle.com/c/digit-recognizer)
+[Digit Recognition Project](https://github.com/jessicarose00/digit_recognition/blob/master/Digit_Recognizer_Kaggle.ipynb)
