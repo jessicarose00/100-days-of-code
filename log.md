@@ -897,7 +897,7 @@ pd.index.values
 **Progress**:
 - reviewed the intro to neural nets lesson from my data science bootcamp
 
-**Thoughts**: One of the last labs we did in the bootcamp involved building a neural network to recognize handwritten digits. The lab spun off an ongoing [Kaggle competition](https://www.kaggle.com/c/digit-recognizer) that uses the infamous MNIST dataset of handwritten images. I'm going to build out the notebook I already started in class to get some practice with these techniques.
+**Thoughts**: One of the last labs we did in the bootcamp involved building a neural network to recognize handwritten digits. The lab spun off an ongoing [Kaggle competition](https://www.kaggle.com/c/digit-recognizer) that uses the infamous MNIST dataset of handwritten images. Recognizing that this isn't the most creative project to work on ([some suggest avoiding it altogether](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e)), I need a quick way to get some practice with these techniques. I wouldn't necessarily include this in my 'portfolio' of projects to an employer, but I hope it will lead to some more interesting projects.
 
 **Work & Resources**:
 coming soon.
@@ -931,3 +931,32 @@ coming soon.
 **Work & Resources**:
 [Kaggle competition](https://www.kaggle.com/c/digit-recognizer)
 [Digit Recognition Project](https://github.com/jessicarose00/digit_recognition/blob/master/Digit_Recognizer_Kaggle.ipynb)
+
+### Day 60
+#### April 10, 2020
+
+**Focus**: Neural network review
+
+**Progress**:
+- played with hyperparameters to try and improve model performance
+- tried to make my portfolio prettier
+
+**Thoughts**: Today I just worked on model tuning to become more familiar with how each hyperparameter affects performance. It was good practice, but probably time to submit my scores to Kaggle and move on to a more creative project! I also spent some time trying to clean up my portfolio. 
+
+**Work & Resources**:
+[Kaggle competition](https://www.kaggle.com/c/digit-recognizer)
+[Digit Recognition Project](https://github.com/jessicarose00/digit_recognition/blob/master/Digit_Recognizer_Kaggle.ipynb)
+
+### Day 61
+#### April 13, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- added some new cleaning steps to the EDA 
+- did some research to help inform how to handle null values and outliers
+
+**Thoughts**: This week I will focus on building out the project I completed as my capstone for General Assembly. There are several areas that I would like to continue working on, including adding new data layers, model development and producing more visualizations. There are many potential directions for growth with this work, thanks to the Global Fishing Watch's [publicly available datasets and code](https://globalfishingwatch.org/datasets-and-code/). Learn more about my project by checking out the repo below.
+
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
