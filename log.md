@@ -960,3 +960,18 @@ coming soon.
 
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+
+### Day 62
+#### April 14, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- tried some new iterations of the DBSCAN clustering model
+- read about the potential [advantages of using the HDBSCAN](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#dbscan) algorithm
+
+**Thoughts**: Today I focused on improving the performance of my DBSCAN clustering models, which were not achieving great scores when I first attempted this project. During my capstone, fitting and scoring the DBSCAN algorithm was so computationally expensive that I didn't have time to complete as thorough of an analysis as I would've liked. I attempted adding more features but performance dropped. It's hard to decipher whether it's the features or the hyperparamters that are the root cause. DBSCAN's epsilon parameter can be really sensitive and annoyingly hard to pick. For this reason, I started looking into a similar algorithm called HDBSCAN, which I'll test tomorrow.
+
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+[HDBSCAN Clustering Library](https://hdbscan.readthedocs.io/en/latest/index.html)
