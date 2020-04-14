@@ -31,12 +31,14 @@ A compilation of the many resources I have either referenced, use or admire.
 ### Machine Learning
 - [Comparison of Classic Machine Learning Algorithms](https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222)
 - [What is the difference between Boosting and Bagging?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+- [Comparison of Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#dbscan)
 
 ### Deep Learning
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.98545&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 ### Portfolio Building
 - [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/engineering/open-source_gettingstarted/)
+- [How to Build a DS Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 
 ### Podcasts
 - [Data Stories](https://datastori.es/)
