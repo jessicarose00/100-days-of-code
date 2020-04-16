@@ -975,3 +975,16 @@ coming soon.
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
 [HDBSCAN Clustering Library](https://hdbscan.readthedocs.io/en/latest/index.html)
+
+### Day 63
+#### April 16, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- tested out HDBSCAN algorithm to see if I could improve clustering results
+
+**Thoughts**: I added a new notebook to my analysis for testing out the HDBSCAN algorithms. Already I love that it only takes a few minutes to fit the model - it is super efficient. Working on this section of the project is raising a lot of questions about clustering algorithms and how best to use them in my EDA. I've been learning a lot from the [HDBSCAN documentation](https://hdbscan.readthedocs.io/en/latest/index.html) and am eager to find more resources to expand my understanding of this technique.
+
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
