@@ -1001,3 +1001,16 @@ coming soon.
 
 **Work & Resources**:
 [Codewars](https://www.codewars.com)
+
+### Day 64
+#### April 18, 2020
+
+**Focus**: Python 
+
+**Progress**:
+- Some more kata training on codewars today
+
+**Thoughts**: Nothing better than getting your 100daysofcode commitment out of the way first thing on a Saturday. I love the brain workout I get from these codewars challenges. It's helping me recall important Python syntax and learn new tricks.
+
+**Work & Resources**:
+[Codewars](https://www.codewars.com)
