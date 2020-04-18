@@ -988,3 +988,16 @@ coming soon.
 
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+
+### Day 63
+#### April 17, 2020
+
+**Focus**: Python 
+
+**Progress**:
+- Training on codewars today
+
+**Thoughts**: Moved up a ranking! Follow me... and become an ally. jessicarose00.
+
+**Work & Resources**:
+[Codewars](https://www.codewars.com)
