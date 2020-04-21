@@ -989,7 +989,7 @@ coming soon.
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
 
-### Day 63
+### Day 64
 #### April 17, 2020
 
 **Focus**: Python 
@@ -1002,7 +1002,7 @@ coming soon.
 **Work & Resources**:
 [Codewars](https://www.codewars.com)
 
-### Day 64
+### Day 65
 #### April 18, 2020
 
 **Focus**: Python 
@@ -1014,3 +1014,30 @@ coming soon.
 
 **Work & Resources**:
 [Codewars](https://www.codewars.com)
+
+### Day 66
+#### April 19, 2020
+
+**Focus**: Python 
+
+**Progress**:
+- Last day of codewars, I promise.
+
+**Thoughts**: Argh! These are both addicting and defeating.
+
+**Work & Resources**:
+[Codewars](https://www.codewars.com)
+
+### Day 67
+#### April 20, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- Researched clustering algorithms to inform how to approach next steps
+
+**Thoughts**: I felt like I wasn't making much progress on this project last week and decided to take a few days off, but now I'm back. The thing with only dedicating one hour per day to code is that you don't actually accomplish much at a project level. It works fine for tutorials or short coding challenges (although even there, I pass the hour mark regularly) but it's hard to get in the right groove. Anyway, today I spent some time thinking through the modeling section. Since I'm still quite new to clustering techniques, I've had trouble understanding the low silhouette scores - is it the features I'm choosing? hyperparameters? or does the data simply not cluster well and I should move on? I made a plea for help on twitter and received some great explanations that would have taken me a long time to research and understand on my own. This is the power of #100daysofCode!
+
+
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
