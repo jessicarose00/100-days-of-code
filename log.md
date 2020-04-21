@@ -1038,6 +1038,19 @@ coming soon.
 
 **Thoughts**: I felt like I wasn't making much progress on this project last week and decided to take a few days off, but now I'm back. The thing with only dedicating one hour per day to code is that you don't actually accomplish much at a project level. It works fine for tutorials or short coding challenges (although even there, I pass the hour mark regularly) but it's hard to get in the right groove. Anyway, today I spent some time thinking through the modeling section. Since I'm still quite new to clustering techniques, I've had trouble understanding the low silhouette scores - is it the features I'm choosing? hyperparameters? or does the data simply not cluster well and I should move on? I made a plea for help on twitter and received some great explanations that would have taken me a long time to research and understand on my own. This is the power of #100daysofCode!
 
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+
+### Day 68
+#### April 21, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- Updated EDA with new approach to clustering validation and read up on some different metrics, including [Density Based Clustering Validation](https://www.dbs.ifi.lmu.de/~zimek/publications/SDM2014/DBCV.pdf)
+- Re-scored DBSCAN Model 1 using haversine distance (didn't realize silhouette score implicitly uses euclidean!)
+
+**Thoughts**: Clustering validation, in this case the silhouette coefficient, very much informed how I tuned the parameters of my DBSCAN model. However, I learned some important things this week with respect to silhouette scores. They are not the end all be all! Bad silhouette scores don't necessarily mean clustering is not accurate. Silhouette scores punish irregularly shaped clusters and noise, even if those clusters might make sense. Today I read up on another metric called Density Based Clustering Validation, which should also be used with a grain of salt, but provides another option for measuring performance.
 
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
