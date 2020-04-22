@@ -1054,3 +1054,16 @@ coming soon.
 
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+
+### Day 69
+#### April 22, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- Added new parameters to HDBSCAN model and tried DBCV scoring
+
+**Thoughts**: Continued tinkering today, not much else to add.
+
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
