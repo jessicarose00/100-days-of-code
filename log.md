@@ -1080,3 +1080,16 @@ coming soon.
 
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+
+### Day 70/71
+#### April 25, 2020
+
+**Focus**: Review of A/B testing and hypothesis testing
+
+**Progress**:
+- Reviewed steps for analyzing the results of an A/B test
+- Reviewed the drawbacks and difficulties associated with A/B tests
+
+**Thoughts**: Some of these concepts are getting foggy (including their implementation in Python) so I felt a need to review this weekend! One item that stood out to me was the importance in choosing the right metric to evaluate your results of your test and make the ultimate decision. 
+
+**Work & Resources**:
