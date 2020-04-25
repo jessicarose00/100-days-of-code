@@ -1067,3 +1067,16 @@ coming soon.
 
 **Work & Resources**:
 [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
+
+### Day 70/71
+#### April 23 and 24, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- Parameter tuning for HDBSCAN models
+
+**Thoughts**: The past two days have been more or less the same work. I tried cleaning up the modeling section to prep it for some additional visualizations I would like to make. I was told that sometimes visualizations can provide just as valuable insights as the validation metrics, so I'm eager to see what I can create with the new models I've added. I've also been tweaking the conclusions section.
+
+**Work & Resources**:
+[From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent)
