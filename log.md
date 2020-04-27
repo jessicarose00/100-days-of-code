@@ -1107,3 +1107,17 @@ coming soon.
 
 **Work & Resources**:
 [Variance Inflation Factors](https://etav.github.io/python/vif_factor_python.html)
+
+### Day 74
+#### April 27, 2020
+
+**Focus**: Portfolio development: From Dark to Transparent
+
+**Progress**:
+- updated the visualizations section by adding scatterplots for each model
+- attended a machine learning webinar as part of the ICLR 2020 Workshop Tackling Climate Change with Machine Learning
+
+**Thoughts**: I tinkered with the scatterplots in my EDA, which can also be a good way to understand the performance of my clustering algorithms. I also attended [Climate Change AI's](https://www.climatechange.ai/) ICLR 2020 event, which is focused on impactful uses of machine learning in reducing and responding to climate change. It was great to hear Sharon Zhou and Sasha Luccioni connect all the ML methods I'm quite familiar with to climate change applications!
+
+**Work & Resources**:
+[ICLR Workshop Schedule](https://www.climatechange.ai/ICLR2020_workshop)
