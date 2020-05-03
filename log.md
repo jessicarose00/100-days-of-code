@@ -1121,3 +1121,16 @@ coming soon.
 
 **Work & Resources**:
 [ICLR Workshop Schedule](https://www.climatechange.ai/ICLR2020_workshop)
+
+### Day 75
+#### May 3, 2020
+
+**Focus**: Portfolio development
+
+**Progress**:
+- set up developer account on twitter
+- started data wrangling with twitter posts project
+
+**Thoughts**: Off schedule due to a super busy week, so spent extra time today working on a new project which involves using Tweepy to querry Twitter's API. 
+
+**Work & Resources**:
