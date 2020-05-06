@@ -1125,12 +1125,21 @@ coming soon.
 ### Day 75
 #### May 3, 2020
 
-**Focus**: Portfolio development
+**Focus**: Portfolio Development: Wrangle Twitter Data
 
 **Progress**:
 - set up developer account on twitter
-- started data wrangling with twitter posts project
+- started a project on data wrangling that involves scraping twitter posts
 
-**Thoughts**: Off schedule due to a super busy week, so spent extra time today working on a new project which involves using Tweepy to querry Twitter's API. 
+**Thoughts**: Off schedule due to a super busy week, so spent extra time today working on a new project which involves using Tweepy to query Twitter's API and gather posts from the the WeRateDogs Twitter archive.
 
-**Work & Resources**:
+### Day 76/77
+#### May 4 and 5, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- finally figured out how to read in the JSON data into a pandas dataframe
+
+**Thoughts**: After querying each tweet ID, I had to write its JSON data to a text file with each tweet's JSON data on its own line. I was running into JSON decoding errors whyle reading in the file as a pandas DataFrame. Will try another approach tomorrow. Now that the data has finally been acquired and transformed into the proper format, I can address the quality/tidiness issues and begin analysis. 
+
