@@ -4,7 +4,7 @@
 [Day 0](#Day-0) | [Day 1](#Day-1) | [Day 2](#Day-2) | [Day 3](#Day-3) | [Day 4](#Day-4) | [Day 5](#Day-5) | [Day 6](#Day-6) | [Day 7](#Day-7) | [Day 8](#Day-8) | [Day 9](#Day-9) | [Day 10](#Day-10) | [Day 11](#Day-11) | [Day 12](#Day-12) | [Day 13](#Day-13) | [Day 14](#Day-14) | [Day 15](#Day-15) | [Day 16](#Day-16) | [Day 17](#Day-17) | [Day 18](#Day-18) | [Day 19](#Day-19) | [Day 20](#Day-20) | [Day 21](#Day-21) | [Day 22](#Day-22) | [Day 23](#Day-23) | [Day 24](#Day-24) | [Day 25](#Day-25) | [Day 26](#Day-26) | [Day 27](#Day-27) | [Day 29](#Day-29) | [Day 30](#Day-30) | [Day 31](#Day-31) | [Day 32](#Day-32) | [Day 33](#Day-33) | [Day 34](#Day-34) | [Day 35](#Day-35/36) | [Day 36](#Day-35/36) | [Day 37](#Day-37) | [Day 38](#Day-38) | [Day 39](#Day-39) | [Day 40](#Day-40) | [Day 41](#Day-41/42) | [Day 42](#Day-41/42) | [Day 43](#Day-43) | [Day 44](#Day-44) | [Day 45](#Day-45) | [Day 46](#Day-46) | [Day 47](#Day-47) | [Day 48](#Day-48) | [Day 49](#Day-49) | [Day 50](#Day-50) | 
 
 ## Part 2
-[Day 51](#Day-51) | [Day 52](#Day-52) | [Day 53](#Day-53) | [Day 54](#Day-54) | [Day 55](#Day-55) | [Day 56](#Day-56) | [Day 57](#Day-57) | [Day 58](#Day-58) | [Day 59](#Day-59) | [Day 60](#Day-60) | [Day 61](#Day-61) | [Day 62](#Day-62) | [Day 63](#Day-63) | [Day 64](#Day-64) | [Day 65](#Day-65) | [Day 66](#Day-66) | [Day 67](#Day-67) | [Day 68](#Day-68) | [Day 69](#Day-69) | [Day 70](#Day-70/71) | [Day 71](#Day-70/71) | [Day 72](#Day-72) | [Day 73](#Day-73) | [Day 74](#Day-74) | [Day 75](#Day-75) | [Day 76](#Day-76) | [Day 77](#Day-77) | [Day 78](#Day-78) | [Day 79](#Day-79) | [Day 80](#Day-80) | [Day 81](#Day-81) | [Day 82](#Day-82) | [Day 83](#Day-83) | [Day 84](#Day-84) | [Day 85](#Day-85) | [Day 86](#Day-86) | [Day 87](#Day-87) | [Day 88](#Day-88) | [Day 89](#Day-89) | [Day 90](#Day-90) | [Day 91](#Day-91) | [Day 92](#Day-92) | [Day 93](#Day-93) | [Day 94](#Day-94) | [Day 95](#Day-95) | [Day 96](#Day-96) | [Day 97](#Day-97) | [Day 98](#Day-98) | [Day 99](#Day-99) | [Day 100](#Day-100) | 
+[Day 51](#Day-51) | [Day 52](#Day-52) | [Day 53](#Day-53) | [Day 54](#Day-54) | [Day 55](#Day-55) | [Day 56](#Day-56) | [Day 57](#Day-57) | [Day 58](#Day-58) | [Day 59](#Day-59) | [Day 60](#Day-60) | [Day 61](#Day-61) | [Day 62](#Day-62) | [Day 63](#Day-63) | [Day 64](#Day-64) | [Day 65](#Day-65) | [Day 66](#Day-66) | [Day 67](#Day-67) | [Day 68](#Day-68) | [Day 69](#Day-69) | [Day 70](#Day-70/71) | [Day 71](#Day-70/71) | [Day 72](#Day-72) | [Day 73](#Day-73) | [Day 74](#Day-74) | [Day 75](#Day-75) | [Day 76](#Day-76/77) | [Day 77](#Day-76/77) | [Day 78](#Day-78) | [Day 79](#Day-79) | [Day 80](#Day-80) | [Day 81](#Day-81) | [Day 82](#Day-82) | [Day 83](#Day-83) | [Day 84](#Day-84) | [Day 85](#Day-85) | [Day 86](#Day-86) | [Day 87](#Day-87) | [Day 88](#Day-88) | [Day 89](#Day-89) | [Day 90](#Day-90) | [Day 91](#Day-91) | [Day 92](#Day-92) | [Day 93](#Day-93) | [Day 94](#Day-94) | [Day 95](#Day-95) | [Day 96](#Day-96) | [Day 97](#Day-97) | [Day 98](#Day-98) | [Day 99](#Day-99) | [Day 100](#Day-100) | 
 
 
 ### Day 0
@@ -1143,3 +1143,16 @@ coming soon.
 
 **Thoughts**: After querying each tweet ID, I had to write its JSON data to a text file with each tweet's JSON data on its own line. I was running into JSON decoding errors whyle reading in the file as a pandas DataFrame. Will try another approach tomorrow. Now that the data has finally been acquired and transformed into the proper format, I can address the quality/tidiness issues and begin analysis. 
 
+### Day 78
+#### May 6, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- started assessing twitter data for quality and tidiness issues
+- began another project focused on practicing visualizations with Matplotlib and Seaborn
+
+**Thoughts**: I have a few small projects in the works at the moment - hope you can keep up! Trying to clean up and finish these as part of the Udacity data analyst nanodegree program I started prior to the data science bootcamp.
+
+**Work & Resources**:
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
