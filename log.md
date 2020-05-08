@@ -1169,3 +1169,16 @@ coming soon.
 
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+### Day 80
+#### May 8, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- resolved the obstacles I was running into yesterday!
+
+**Thoughts**: I was really pleased to resolve ALL of the issues I was struggling with yesterday. Sometimes all it takes is a new day and fresh eyes.
+
+**Work & Resources**:
+[Nanodegree Repo](https://github.com/jessicarose00/udacity_nanodegree)
