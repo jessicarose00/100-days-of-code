@@ -1150,9 +1150,22 @@ coming soon.
 
 **Progress**:
 - started assessing twitter data for quality and tidiness issues
-- began another project focused on practicing visualizations with Matplotlib and Seaborn
+- started a visualization project that will utilize Matplotlib and Seaborn to understand conflict in Brazil (stay tuned)
 
-**Thoughts**: I have a few small projects in the works at the moment - hope you can keep up! Trying to clean up and finish these as part of the Udacity data analyst nanodegree program I started prior to the data science bootcamp.
+**Thoughts**: I have a few small projects in the works at the moment - hope you can keep up! Trying to clean up and finish these as part of the Udacity data analyst nanodegree program I started prior to the data science bootcamp. I'm hoping they will keep my skills sharp in the data gathering, analysis and visualization areas.
+
+**Work & Resources**:
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+### Day 79
+#### May 7, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- worked on data quality and tidiness issues today, specifically missing data and incorrect datatypes 
+
+**Thoughts**: Today I was really stuck on two items. The first was trying to figure out a way to programmatically combine the strings of four different columns into one column, while skipping strings that said "None". The second was trying to change an object into datetime format. In order to do this I needed to remove the first three characters of a string for each row in a column. Tomorrow I will approach again with fresh eyes.
 
 **Work & Resources**:
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
