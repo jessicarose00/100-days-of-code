@@ -1182,3 +1182,16 @@ coming soon.
 
 **Work & Resources**:
 [Nanodegree Repo](https://github.com/jessicarose00/udacity_nanodegree)
+
+### Day 81
+#### May 10, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- finished cleaning tasks 
+
+**Thoughts**: I finished cleaning the issues I identified, and while there were many more that could be addressed, am keeping the scope of this project small and will move on to final analysis and visualizations tomorrow.
+
+**Work & Resources**:
+[Nanodegree Repo](https://github.com/jessicarose00/udacity_nanodegree)
