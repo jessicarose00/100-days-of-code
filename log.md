@@ -1195,3 +1195,17 @@ coming soon.
 
 **Work & Resources**:
 [Nanodegree Repo](https://github.com/jessicarose00/udacity_nanodegree)
+
+### Day 82
+#### May 11, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- figured out how to expand truncated pandas column in order to address one more cleaning item
+- made 100 horrifying visualizations because that's what you need to do in order to produce 1 amazing visualization, right?
+
+**Thoughts**: I've decided to start a scrapbook of all the horrifying charts I've made so when I'm a boss I can have a good laugh. Open to title suggestions.  
+
+**Work & Resources**:  
+  
