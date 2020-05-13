@@ -1194,7 +1194,7 @@ coming soon.
 **Thoughts**: I finished cleaning the issues I identified, and while there were many more that could be addressed, am keeping the scope of this project small and will move on to final analysis and visualizations tomorrow.
 
 **Work & Resources**:
-[Nanodegree Repo](https://github.com/jessicarose00/udacity_nanodegree)
+[WeRateDogs Twitter Analysis](https://github.com/jessicarose00/udacity_nanodegree/blob/master/wrangle_twitter_data/wrangle_act.ipynb)
 
 ### Day 82
 #### May 11, 2020
@@ -1205,7 +1205,18 @@ coming soon.
 - figured out how to expand truncated pandas column in order to address one more cleaning item
 - made 100 horrifying visualizations because that's what you need to do in order to produce 1 amazing visualization, right?
 
-**Thoughts**: I've decided to start a scrapbook of all the horrifying charts I've made so when I'm a boss I can have a good laugh. Open to title suggestions.  
+**Thoughts**: I've decided to start a scrapbook of all the horrifying charts I've made so when I'm a boss I can have a good laugh. I'm open to title suggestions.  
+
+### Day 83
+#### May 12, 2020
+
+**Focus**: Portfolio Development: Wrangle Twitter Data
+
+**Progress**:
+- Finished visualizations
+- Prepared some insights and submitted for review
+
+**Thoughts**: Today I finalized two visualizations and submmitted the project for review (by Udacity). The first is a set of bar charts that illustrates the most popular breeds of dogs predicted by the neural net. The second is a scatter plot that illustrates a positive correlation between the number of likes a post receives and time.
 
 **Work & Resources**:  
-  
+[WeRateDogs Twitter Analysis](https://github.com/jessicarose00/udacity_nanodegree/blob/master/wrangle_twitter_data/wrangle_act.ipynb)
