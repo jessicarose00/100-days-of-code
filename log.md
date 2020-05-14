@@ -1214,9 +1214,25 @@ coming soon.
 
 **Progress**:
 - Finished visualizations
-- Prepared some insights and submitted for review
+- Prepared some insights
 
-**Thoughts**: Today I finalized two visualizations and submmitted the project for review (by Udacity). The first is a set of bar charts that illustrates the most popular breeds of dogs predicted by the neural net. The second is a scatter plot that illustrates a positive correlation between the number of likes a post receives and time.
+**Thoughts**: Today I developed two visualizations - The first is a set of bar charts that illustrates the most popular breeds of dogs predicted by the neural net. The second is a scatter plot that illustrates a positive correlation between the number of likes a post receives over time. While this was not the most challenging project I've worked on I enjoyed implementing some new and more complex programmatic cleaning methods. I definitely learned some new tricks!
 
 **Work & Resources**:  
 [WeRateDogs Twitter Analysis](https://github.com/jessicarose00/udacity_nanodegree/blob/master/wrangle_twitter_data/wrangle_act.ipynb)
+
+### Day 84
+#### May 14, 2020
+
+**Focus**: Everything?
+
+**Progress**:
+- Additional tweaks to the data wrangling project
+- Cleaned up a dataset to use in a Tableau dashboard
+- Started a project on A/B testing
+
+**Thoughts**: I worked on a little bit of everything today, from cleaning to analysis to visualizations. I'm finishing the Wrangle Twitter Data project and have moved on to finishing the next project in my Udacity nanodegree, which focuses on A/B testing. I also cleaned up a dataset on conflict in Brazil, which I plan to use in a Tableau dashboard.
+
+**Work & Resources**:  
+[Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+ 
