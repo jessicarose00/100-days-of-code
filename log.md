@@ -1235,4 +1235,31 @@ coming soon.
 
 **Work & Resources**:  
 [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+### Day 85
+#### May 18, 2020
+
+**Focus**: SQL
+
+**Progress**:
+- Completed an intermediate level SQL bootcamp
+
+**Thoughts**: To make up for lost time, I completed a live 6-hour intermediate SQL bootcamp today. The workshop covered advanced querying techniques, including joins, unions, case statements and subqueries. The final two hours were a bit challenging, so I'll have to find ways to continue practicing and applying the techniques we learned. 
+
+**Work & Resources**:  
+[General Assembly Classes & Workshops](https://generalassemb.ly/education?where=new-york-city&format=classes-workshops)
+
+### Day 86
+#### May 19, 2020
+
+**Focus**: Portfolio Development: Communicate Findings
+
+**Progress**:
+- Visualized several simple univariate relationships 
+- Described my approach, features of interest and insights gained from the visuals
+
+**Thoughts**: This week I turn my attention to a new project where I plan to practice data visualization techniques. This project is structured in a way that I start with visualizing univariate relationships with my dataset, then move to bivariate and finally multivariate relationships. I really like this approach as I often find myself jumping head first into complicated and potentially directionless visuals. Starting simple forces me to first acknowledge the frequency and distribution of singular variables and then determine where I need to dive deeper. Since this project is an excellent opportunity to ask questions of the data and make my own discoveries, I chose a topic that I have a personal interest in. Check it out below...
+
+**Work & Resources**:  
+[Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
  
