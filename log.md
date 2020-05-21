@@ -1262,4 +1262,17 @@ coming soon.
 
 **Work & Resources**:  
 [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
+
+### Day 87
+#### May 20, 2020
+
+**Focus**: Portfolio Development: Communicate Findings
+
+**Progress**:
+- Bivariate exploration
+
+**Thoughts**: Today I dug deeper and investigated relationships between pairs of variables in my data. Grouped bar charts, violin plots and box plots, oh my.
+
+**Work & Resources**:  
+[Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
  
