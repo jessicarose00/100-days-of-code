@@ -1269,10 +1269,25 @@ coming soon.
 **Focus**: Portfolio Development: Communicate Findings
 
 **Progress**:
-- Bivariate exploration
+- Bivariate explorations
 
 **Thoughts**: Today I dug deeper and investigated relationships between pairs of variables in my data. Grouped bar charts, violin plots and box plots, oh my.
 
 **Work & Resources**:  
 [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
+
+### Day 88
+#### May 21, 2020
+
+**Focus**: Portfolio Development: Communicate Findings & A/B Testing
+
+**Progress**:
+- Continued to refine my bivariate explorations by adding a line plot
+- Worked on the hypothesis testing section of my A/B testing project
+
+**Thoughts**: Working through some challenging concepts today. Was struggling a bit to come up with multivariate plots for my analysis - will have to explore this [Python Graph Gallery](https://python-graph-gallery.com/) for some inspiration tomorrow.
+
+**Work & Resources**:  
+[Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
+ 
  
