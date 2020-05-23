@@ -1289,5 +1289,22 @@ coming soon.
 
 **Work & Resources**:  
 [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
+
+### Day 89
+#### May 22, 2020
+
+**Focus**: Portfolio Development: Communicate Findings & A/B Testing
+
+**Progress**:
+- Finished A/B testing project
+- Continued to attempt multivariate visuals 
+- Reported on the observed relationships and areas/questions to be investigated further 
+
+**Thoughts**: Okay, still not super pleased with my multivariate exploration. I feel like I face limited options for exploring three features in one chart given none of my quantitative data is continuous. I think I'll have to broaden the scope of my investigation slightly. Also, I recognize I haven't discussed the A/B testing project much. It was a very guided step-by-step project so I haven't had too much to reflect on, except that it has been a good reminder that I need to stay on top of those stats concepts.
+
+**Work & Resources**:  
+[Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
+[Analyze A/B Test Results](https://github.com/jessicarose00/udacity_nanodegree/blob/master/analyze_ab_test_results/analyze_ab_test_results.ipynb)
+
  
  
