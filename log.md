@@ -1306,5 +1306,17 @@ coming soon.
 [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
 [Analyze A/B Test Results](https://github.com/jessicarose00/udacity_nanodegree/blob/master/analyze_ab_test_results/analyze_ab_test_results.ipynb)
 
+### Day 90
+#### May 26, 2020
+
+**Focus**: Portfolio Development: Communicate Findings
+
+**Progress**:
+- Cleaned up charts and derived insights from data
+
+**Thoughts**: If there's one phrase I could do without for a day it's "derive insights from data". Just kidding. But it is completely overused. Today I worked on extracting some conclusions from all the visualizations I have created with my Brazil Conflict dataset. This led me to discover one of my bar charts, which was supposed to illustrate total fatality counts per state, was completely inaccurate and misleading! I figured out how to address the issue and reminded myself of the importance of common sense and fresh eyes.
+
+**Work & Resources**:  
+[Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
  
  
