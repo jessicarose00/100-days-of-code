@@ -1319,4 +1319,31 @@ coming soon.
 **Work & Resources**:  
 [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings)
  
- 
+### Day 91
+#### May 29, 2020
+
+**Focus**: Finalize Udacity Data Analyst Nanodegree
+
+**Progress**:
+- put the finishing touches on my portfolio
+
+**Thoughts**: I FINALLY completed the degree! I started Udacity's data analyst nanodegree program in September, but unexpectedly received a scholarship to attend a Data Science Bootcamp and was unable to complete both programs at the same time. When I saw Udacity was offering one month free trials, I raced to complete the courses and three outstanding projects. It was interesting to approach the content again after completing the bootcamp, but surprisingly a great way to review some of the concepts I had started to forget. I'm thankful to Udacity for the opportunity to finish what I started and receive my graduation certificate.
+
+**Work & Resources**:  
+[Udacity Nanodegree](https://github.com/jessicarose00/udacity_nanodegree)
+[My Certificate](https://graduation.udacity.com/nd002)
+
+### Day 92
+#### June 2, 2020
+
+**Focus**: Translate Visualizations to Tableau
+
+**Progress**:
+- replicated and further developed the visualizations I created with the Brazil conflict data in Tableau
+- completed some lessons on the Tableau eLearning Data Scientist Learning Path
+
+**Thoughts**: 
+To become more familiar with Tableau (and my data set) I decided to carry over my data and replicate some of the visualizations I had made with Matplotlib and Seaborn in the [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings) project. I also completed some tutorials on using sets and context filters, which are really fundamental to making good visualizations in Tableau. Context filters are important since normal filters act independently from one another and on the entire dataset, without regard to other filters you might be using at the same time. Using a context filter allows you to query the dataset, then apply additional filters that are queried against the results from the first context filter.
+
+**Work & Resources**:  
+[Tableau eLearning](https://elearning.tableau.com/)
