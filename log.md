@@ -1339,11 +1339,24 @@ coming soon.
 **Focus**: Translate Visualizations to Tableau
 
 **Progress**:
-- replicated and further developed the visualizations I created with the Brazil conflict data in Tableau
-- completed some lessons on the Tableau eLearning Data Scientist Learning Path
+ - completed some lessons on the Tableau eLearning Data Scientist Learning Path
 
 **Thoughts**: 
 To become more familiar with Tableau (and my data set) I decided to carry over my data and replicate some of the visualizations I had made with Matplotlib and Seaborn in the [Communicate Data Findings](https://github.com/jessicarose00/udacity_nanodegree/tree/master/communicate_data_findings) project. I also completed some tutorials on using sets and context filters, which are really fundamental to making good visualizations in Tableau. Context filters are important since normal filters act independently from one another and on the entire dataset, without regard to other filters you might be using at the same time. Using a context filter allows you to query the dataset, then apply additional filters that are queried against the results from the first context filter.
 
 **Work & Resources**:  
 [Tableau eLearning](https://elearning.tableau.com/)
+
+### Day 93
+#### June 17, 2020
+
+**Focus**: Eyes (back) on the finish line
+
+**Progress**:
+- Codewars 
+
+**Thoughts**: 
+Wow, my progress was completely derailed for two weeks during my final countdown of this challenge! Finding a job really is a full time (often overtime) job. I've been hitting the applications and networking full force, which unfortunately meant that my challenge dropped on the priority list. I've also been spending my remaining time studying what it means to be a geospatial data scientist. I'm keen to build out my skill set in this area and learn some new programs in the coming weeks. First I will close out these last 7 days since I can feel my Python skills taking the hit. Does anyone else feel like coding is kind of like yoga? If you fall out of daily practice you start to lose flexibility and balance, but once you get back into a rhythm it's like you never stopped.
+
+**Work & Resources**:  
+[Codewars](https://www.codewars.com/) 
