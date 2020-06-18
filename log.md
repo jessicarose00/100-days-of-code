@@ -1360,3 +1360,17 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 
 **Work & Resources**:  
 [Codewars](https://www.codewars.com/) 
+
+### Day 94
+#### June 18, 2020
+
+**Focus**: QGIS Exploration
+
+**Progress**:
+- Download and troubleshoot QGIS install
+- Read documentation 
+
+**Thoughts**: I was really excited to download and start exploring [QGIS](https://qgis.org/en/site/), an open source GIS application that allows you to work with geospatial data. However the newest version (3.12) and the slightly older, more stable version (3.10) were not working, so I ended up spending a lot of time trying to figure out the SSL certs and troubleshoot. In the end, just read through the documentation a bit. Not the outcome I had in mind for today, but hey, there's never any harm in becoming familiar with the documentation. The plan moving forward is to work with the provided sample dataset.
+
+**Work & Resources**:  
+[QGIS documentation](https://docs.qgis.org/testing/en/docs/index.html) 
