@@ -1374,3 +1374,20 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 
 **Work & Resources**:  
 [QGIS documentation](https://docs.qgis.org/testing/en/docs/index.html) 
+
+### Day 95
+#### June 22, 2020
+
+**Focus**: QGIS Exploration
+
+**Progress**:
+- Completed modules 1-2 in the QGIS training manual
+  - installed Open Street Map plugin
+  - added a layer from a shapefile dataset and created a basic map
+  - became familiar with the layout of the QGIS interface
+  - learned about basic QGIS navigation tools to visually explore layers at different scales
+
+**Thoughts**: I was fortunate to find a [workaround](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/177) to opening the QGIS app and started on some tutorials today. If you're wondering how this relates to coding - I'm eager to better understand vector and raster data so that I can build a new feature to my illegal fishing project, [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent).
+
+**Work & Resources**:  
+[QGIS Training Manual](https://docs.qgis.org/3.10/en/docs/training_manual/) 
