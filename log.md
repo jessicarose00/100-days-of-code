@@ -1391,3 +1391,17 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 
 **Work & Resources**:  
 [QGIS Training Manual](https://docs.qgis.org/3.10/en/docs/training_manual/) 
+
+### Day 96
+#### June 23, 2020
+
+**Focus**: Geospatial Analysis
+
+**Progress**:
+- Explored Pratt's Spatial Analysis and Visualization Initiative
+- Learned about the two primary types of spatial data models: vector and raster
+
+**Thoughts**: I continued my deep dive into geospatial analysis with this helpful course designed by a fellow General Assembly DSI grad. I am simultaneously working through the QGIS training sessions, but find this course is more relevant to my 100 days of code challenge since it involves Python scripting. 
+
+**Work & Resources**:  
+[Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
