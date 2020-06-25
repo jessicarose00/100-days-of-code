@@ -1405,3 +1405,20 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 
 **Work & Resources**:  
 [Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
+
+### Day 97
+#### June 25, 2020
+
+**Focus**: Geospatial Analysis
+
+**Progress**:
+- Continued working on Pratt's Spatial Analysis and Visualization Course
+- Completed assignment 2
+
+**Thoughts**: I finished lesson 2 and 3 of the course mentioned above, which introduced me to [Geopandas](https://geopandas.org/). Geopandas is cool because it combines the capabilities of pandas and shapely and enables you to do Python operations that would otherwise require a spatial database. I completed an assignment that involved evaluating the number of hospital beds per population by borough. The assignment gave me exposure to some of Geopandas functionality, but overall a lot of the code was provided so I'm hoping the following assignments will be a bit more challenging.
+
+**Work & Resources**:  
+[Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
+[Assignment 2](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/pratt-savi-810-assignment_02.ipynb)
+
+
