@@ -1421,4 +1421,18 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 [Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
 [Assignment 2](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/pratt-savi-810-assignment_02.ipynb)
 
+### Day 98
+#### June 27, 2020
+
+**Focus**: Geospatial Analysis
+
+**Progress**:
+- Worked through lessons 4 and 5 which introduced the topic of Geoprocessing (Geospatial Analysis) with GeoPandas
+
+**Thoughts**: Geoprocessing is any operation involving geospatial data or methods. I learned about projection systems and re-projecting data, which changes the representation of locations from one coordinate system to another. Apparently it's common to redefine the map projections to be identical across GIS layers since they are often defined differently. I also tested out some geometric manipulations like adding buffers and centroids. 
+
+**Work & Resources**:  
+[Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
+
+
 
