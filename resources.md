@@ -1,23 +1,24 @@
-# My Library of Resources
+# Resource Library
 
 A compilation of the many resources I have either referenced, use or admire.  
 
 ### Data Science & Data Analysis Courses
 - [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 - [Codecademy's Data Science Career Path](https://www.codecademy.com/catalog/subject/data-science)
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
-### Data Science with an Environmental Focus
+### Environmental Data Science
+- [Climate Change AI](https://www.climatechange.ai/)
 - [Earth Data Science](https://www.earthdatascience.org/)
 - [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course)
 
 ### Git & Github
 - [Udacity's Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Udacity's Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-
-### Data Manipulation & Analysis
-- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Atlassian Version Control Tutorials](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 ### Data Visualization
+- [Python Graph Gallery](https://python-graph-gallery.com/)
 - [Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
 
 ### Probability
@@ -44,8 +45,9 @@ A compilation of the many resources I have either referenced, use or admire.
 - [Data Stories](https://datastori.es/)
 - [Developer Tea](https://developertea.simplecast.fm/)
 - [Women in Data Science](https://www.widsconference.org/podcast.html)
+- [DataFramed](https://www.datacamp.com/community/podcast)
 
-## Contents
+## Back to Contents
 * [Activity Log](log.md)
 * [Resources](resources.md)
 * [Exercises](https://github.com/jessicarose00/100-days-of-code/tree/master/Exercises)
