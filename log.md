@@ -350,7 +350,7 @@ Was graced by the following:
 **Thoughts**: I've been needing to do this for a while.
 
 **Work & Resources**:  
-[resources](resources.md)  
+[resources](resources.md)    
 [readme](README.md)  
 
  ### Day 23
@@ -509,7 +509,7 @@ points = points * 2
 ```        
 
 **Work & Resources**:  
- [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)  
+ [Scrabble](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/Scrabble.py)   
  [Python operators](https://www.programiz.com/python-programming/operators)
 
  ### Day 32
@@ -1418,7 +1418,7 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 **Thoughts**: I finished lesson 2 and 3 of the course mentioned above, which introduced me to [Geopandas](https://geopandas.org/). Geopandas is cool because it combines the capabilities of pandas and shapely and enables you to do Python operations that would otherwise require a spatial database. I completed an assignment that involved evaluating the number of hospital beds per population by borough. The assignment gave me exposure to some of Geopandas functionality, but overall a lot of the code was provided so I'm hoping the following assignments will be a bit more challenging.
 
 **Work & Resources**:  
-[Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
+[Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/)  
 [Assignment 2](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/pratt-savi-810-assignment_02.ipynb)
 
 ### Day 98
@@ -1434,5 +1434,22 @@ Wow, my progress was completely derailed for two weeks during my final countdown
 **Work & Resources**:  
 [Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
 
+### Day 99
+#### June 29, 2020
 
+**Focus**: Geospatial Analysis
+
+**Progress**:
+- Learned about additonal geoprocessing techniques with geopandas
+- Introduction to raster data basics
+
+**Thoughts**: Today I learned about an interesting Geopandas method called dissolve, which is a way to aggregate spatial data similar to the groupby function. The example offered in the Geopandas documentation explains the way dissolve can convert country-level data into a continent level dataset (very similar to the split/apply/combine of groupby).  
+
+The two primary types of geospatial data are raster and vector data. Lesson 6 introduced raster data, which is basically a rectangular grid of pixels. The pixels have values that can be either continuous or categorical. The image below is a helpful depiction.
+
+![Source: National Ecological Observatory Network (NEON)](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/raster_concept.png)
+
+**Work & Resources**https:  
+[Geopandas aggregation with dissolve](https://geopandas.org/aggregation_with_dissolve.html)   
+[Useful overview of raster data](https://github.com/geohackweek/raster-2019/blob/master/notebooks/0-introduction.ipynb)
 
