@@ -1449,7 +1449,27 @@ The two primary types of geospatial data are raster and vector data. Lesson 6 in
 
 ![Source: National Ecological Observatory Network (NEON)](https://github.com/jessicarose00/100-days-of-code/blob/master/Exercises/raster_concept.png)
 
-**Work & Resources**https:  
+**Work & Resources**
 [Geopandas aggregation with dissolve](https://geopandas.org/aggregation_with_dissolve.html)   
 [Useful overview of raster data](https://github.com/geohackweek/raster-2019/blob/master/notebooks/0-introduction.ipynb)
 
+### Day 100
+#### June 30, 2020
+
+**Focus**: Study, Reflect, Celebrate
+
+**Progress**:
+- Played around with [GFW Daily Vessel Hours](https://developers.google.com/earth-engine/datasets/catalog/GFW_GFF_V1_vessel_hours) dataset in Google Earth Engine
+- Explored some of Carto's resources on spatial data science (see resouces)
+- Continued Pratt Spatial Analysis Course
+- Updated my [resources page](https://github.com/jessicarose00/100-days-of-code/blob/master/resources.md)
+
+**Thoughts**: 
+Day 100 has finally arrived. In order to tie together the concepts I've learning these past few weeks, I'm starting to see where I can use new spatial analysis tools/packages to build out existing projects like [From Dark to Transparent](https://github.com/jessicarose00/Dark_to_Transparent). I wanted to apply my understanding of raster data models to a data set and issue I'm very familiar with - so I turned to Global Fishing Watch's vessel data. I followed along with GFW's helpful [tutorial](https://globalfishingwatch.org/data-blog/working-with-our-public-data-google-earth-engine/) that demonstrates how to use Google Earth Engine to load, filter, summarize, and export their public fishing effort dataset. As I mentioned before, I'm also eager to see where Geopandas can be used for improved visualizations. This is something I will continue to develop, even though my 100 day challenge is coming to a close.  
+
+Thanks for following my journey!  
+
+**Work & Resources**
+[Webinar: Best Practices for Spatial Data Science Using Carto and Python](https://carto.com/webinars/spatial-data-science-carto-python-recorded?submissionGuid=e2547a82-7a9c-4ca2-a68b-1ee130f9d075)  
+[Book: Becoming a Spatial Data Scientist](https://go.carto.com/ebooks/spatial-data-science)  
+[Pratt Spatial Analysis and Visualization Initiative](https://pratt-savi-810.github.io/) 
