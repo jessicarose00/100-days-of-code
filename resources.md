@@ -20,6 +20,7 @@ A compilation of the many resources I have either referenced, use or admire.
 ### Data Visualization
 - [Python Graph Gallery](https://python-graph-gallery.com/)
 - [Get Started with Tableau Desktop](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
+- [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega/#)
 
 ### Probability
 - [Bayes Theorem: 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)
@@ -30,6 +31,7 @@ A compilation of the many resources I have either referenced, use or admire.
 - [Codewars](https://www.codewars.com/) 
 
 ### Machine Learning
+- [Scikit-Learn Cheat Sheet](https://www.edureka.co/blog/cheatsheets/python-scikit-learn-cheat-sheet/)
 - [Comparison of Classic Machine Learning Algorithms](https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222)
 - [What is the difference between Boosting and Bagging?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
 - [Comparison of Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html#dbscan)
@@ -46,6 +48,7 @@ A compilation of the many resources I have either referenced, use or admire.
 - [Developer Tea](https://developertea.simplecast.fm/)
 - [Women in Data Science](https://www.widsconference.org/podcast.html)
 - [DataFramed](https://www.datacamp.com/community/podcast)
+- [Build a Career in Data Science](https://podcast.bestbook.cool/)
 
 ## Back to Contents
 * [Activity Log](log.md)
